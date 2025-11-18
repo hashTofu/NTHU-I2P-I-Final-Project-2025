@@ -17,6 +17,35 @@ class Player(Entity):
     @override
     def update(self, dt: float) -> None:
         dis = Position(0, 0)
+        if input_manager.key_down(pg.K_LEFT) or input_manager.key_down(pg.K_a):
+            dis.x -= 1.0
+            self.animation.switch("left")
+        if input_manager.key_down(pg.K_RIGHT) or input_manager.key_down(pg.K_d):
+            dis.x += 1.0
+            self.animation.switch("right")
+        if input_manager.key_down(pg.K_UP) or input_manager.key_down(pg.K_w):
+            dis.y -= 1.0
+            self.animation.switch("up")
+        if input_manager.key_down(pg.K_DOWN) or input_manager.key_down(pg.K_s):
+            dis.y += 1.0
+            self.animation.switch("down")
+        if ddis := math.sqrt(dis.x ** 2 + dis.y ** 2):
+            dis = Position(dis.x / ddis * self.speed * dt, dis.y / ddis * self.speed * dt)
+        
+        hb = pg.Rect(self.position.x + dis.x, self.position.y + dis.y , GameSettings.TILE_SIZE, GameSettings.TILE_SIZE)
+        if dis.x and self.game_manager.check_collision(hb):
+            # self.position.x = self._snap_to_grid(self.position.x)
+            pass
+        else:
+            self.position.x += dis.x
+            
+        if dis.y and self.game_manager.check_collision(hb):
+            # self.position.y = self._snap_to_grid(self.position.y)
+            pass
+        else:
+            self.position.y += dis.y
+            
+            
         '''
         [TODO HACKATHON 2]
         Calculate the distance change, and then normalize the distance

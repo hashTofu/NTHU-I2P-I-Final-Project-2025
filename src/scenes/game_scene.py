@@ -8,11 +8,19 @@ from src.utils import Logger, PositionCamera, GameSettings, Position
 from src.core.services import sound_manager
 from src.sprites import Sprite
 from typing import override
+from src.interface.components import Button
+
 
 class GameScene(Scene):
     game_manager: GameManager
     online_manager: OnlineManager | None
     sprite_online: Sprite
+    
+    inv_button: Button
+    settings_button: Button
+    back_button: Button
+    show_overlay: bool
+    
     
     def __init__(self):
         super().__init__()
@@ -29,6 +37,26 @@ class GameScene(Scene):
         else:
             self.online_manager = None
         self.sprite_online = Sprite("ingame_ui/options1.png", (GameSettings.TILE_SIZE, GameSettings.TILE_SIZE))
+        
+        self.show_overlay = False
+        def _toggle_overlay(self):
+            self.show_overlay = not self.show_overlay
+        px, py = GameSettings.SCREEN_WIDTH *0.85, GameSettings.SCREEN_HEIGHT * 0.05
+        self.inv_button = Button(
+            "UI/button_backpack.png", "UI/button_backpack_hover.png",
+            px, py, 50, 50,
+            lambda: _toggle_overlay(self)
+        )
+        self.settings_button = Button(
+            "UI/button_setting.png", "UI/button_setting_hover.png",
+            px + 75, py, 50, 50,
+            lambda: _toggle_overlay(self)
+        )
+        self.back_button = Button(
+            "UI/button_back.png", "UI/button_back_hover.png",
+            px + 75, py, 50, 50,
+            lambda: _toggle_overlay(self)
+        )
         
         
     @override
@@ -62,6 +90,11 @@ class GameScene(Scene):
                 self.game_manager.player.position.y,
                 self.game_manager.current_map.path_name
             )
+        if self.show_overlay:
+            self.back_button.update(dt)
+        else:
+            self.inv_button.update(dt)
+            self.settings_button.update(dt)
         
     @override
     def draw(self, screen: pg.Surface):        
@@ -74,7 +107,7 @@ class GameScene(Scene):
             
             camera = self.game_manager.player.camera
             '''
-            camera = PositionCamera(16 * GameSettings.TILE_SIZE, 30 * GameSettings.TILE_SIZE)
+            camera = PositionCamera(self.game_manager.player.position.x - GameSettings.SCREEN_WIDTH // 2, self.game_manager.player.position.y - GameSettings.SCREEN_HEIGHT // 2)
             self.game_manager.current_map.draw(screen, camera)
             self.game_manager.player.draw(screen, camera)
         else:
@@ -84,6 +117,18 @@ class GameScene(Scene):
             enemy.draw(screen, camera)
 
         self.game_manager.bag.draw(screen)
+        
+        self.game_manager.bag.draw(screen)
+        if self.show_overlay:
+            overlay = pg.Surface((GameSettings.SCREEN_WIDTH, GameSettings.SCREEN_HEIGHT), pg.SRCALPHA)
+            overlay.fill((0, 0, 0, 160))  # RGBA
+            screen.blit(overlay, (0, 0))
+            self.back_button.draw(screen)
+        else:
+            self.inv_button.draw(screen)
+            self.settings_button.draw(screen)
+            
+            
         
         if self.online_manager and self.game_manager.player:
             list_online = self.online_manager.get_list_players()

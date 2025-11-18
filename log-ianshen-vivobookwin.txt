@@ -1,0 +1,2972 @@
+[08:41:16] [INFO] Initializing SceneManager
+[08:41:17] [INFO] Initializing Engine
+[08:41:17] [INFO] Loading image: backgrounds/background1.png
+[08:41:17] [INFO] Loading image: UI/button_play.png
+[08:41:17] [INFO] Loading maps
+[08:41:17] [INFO] Loading enemy trainers
+[08:41:17] [INFO] Loading image: character/ow1.png
+[08:41:17] [INFO] Loading image: exclamation.png
+[08:41:17] [INFO] Loading Player
+[08:41:17] [INFO] Loading bag
+[08:41:17] [INFO] Loading image: ingame_ui/options1.png
+[08:41:17] [INFO] Changing scene to 'menu'
+[08:41:17] [INFO] Running the Game Loop ...
+[08:41:17] [INFO] Entering menu scene
+[08:41:17] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:47:28] [INFO] Initializing SceneManager
+[08:47:28] [INFO] Initializing Engine
+[08:47:28] [INFO] Loading image: backgrounds/background1.png
+[08:47:28] [INFO] Loading image: UI/button_play.png
+[08:47:28] [INFO] Loading image: UI/button_setting.png
+[08:47:28] [INFO] Loading maps
+[08:47:29] [INFO] Loading enemy trainers
+[08:47:29] [INFO] Loading image: character/ow1.png
+[08:47:29] [INFO] Loading image: exclamation.png
+[08:47:29] [INFO] Loading Player
+[08:47:29] [INFO] Loading bag
+[08:47:29] [INFO] Loading image: ingame_ui/options1.png
+[08:47:29] [INFO] Changing scene to 'menu'
+[08:47:29] [INFO] Running the Game Loop ...
+[08:47:29] [INFO] Entering menu scene
+[08:47:29] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:47:44] [INFO] Initializing SceneManager
+[08:47:45] [INFO] Initializing Engine
+[08:47:45] [INFO] Loading image: backgrounds/background1.png
+[08:47:45] [INFO] Loading image: UI/button_play.png
+[08:47:45] [INFO] Loading image: UI/button_setting.png
+[08:47:45] [INFO] Loading maps
+[08:47:45] [INFO] Loading enemy trainers
+[08:47:45] [INFO] Loading image: character/ow1.png
+[08:47:45] [INFO] Loading image: exclamation.png
+[08:47:45] [INFO] Loading Player
+[08:47:45] [INFO] Loading bag
+[08:47:45] [INFO] Loading image: ingame_ui/options1.png
+[08:47:45] [INFO] Changing scene to 'menu'
+[08:47:45] [INFO] Running the Game Loop ...
+[08:47:45] [INFO] Entering menu scene
+[08:47:45] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:47:54] [INFO] Initializing SceneManager
+[08:47:54] [INFO] Initializing Engine
+[08:47:54] [INFO] Loading image: backgrounds/background1.png
+[08:47:54] [INFO] Loading image: UI/button_play.png
+[08:47:54] [INFO] Loading image: UI/button_setting.png
+[08:47:54] [INFO] Loading maps
+[08:47:54] [INFO] Loading enemy trainers
+[08:47:54] [INFO] Loading image: character/ow1.png
+[08:47:54] [INFO] Loading image: exclamation.png
+[08:47:54] [INFO] Loading Player
+[08:47:54] [INFO] Loading bag
+[08:47:54] [INFO] Loading image: ingame_ui/options1.png
+[08:47:54] [INFO] Changing scene to 'menu'
+[08:47:54] [INFO] Running the Game Loop ...
+[08:47:54] [INFO] Entering menu scene
+[08:47:54] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:48:02] [INFO] Initializing SceneManager
+[08:48:02] [INFO] Initializing Engine
+[08:48:02] [INFO] Loading image: backgrounds/background1.png
+[08:48:02] [INFO] Loading image: UI/button_play.png
+[08:48:02] [INFO] Loading image: UI/button_setting.png
+[08:48:02] [INFO] Loading maps
+[08:48:03] [INFO] Loading enemy trainers
+[08:48:03] [INFO] Loading image: character/ow1.png
+[08:48:03] [INFO] Loading image: exclamation.png
+[08:48:03] [INFO] Loading Player
+[08:48:03] [INFO] Loading bag
+[08:48:03] [INFO] Loading image: ingame_ui/options1.png
+[08:48:03] [INFO] Changing scene to 'menu'
+[08:48:03] [INFO] Running the Game Loop ...
+[08:48:03] [INFO] Entering menu scene
+[08:48:03] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:48:44] [INFO] Initializing SceneManager
+[08:48:44] [INFO] Initializing Engine
+[08:48:45] [INFO] Loading image: backgrounds/background1.png
+[08:48:45] [INFO] Loading image: UI/button_play.png
+[08:48:45] [INFO] Loading image: UI/button_setting.png
+[08:48:45] [INFO] Loading maps
+[08:48:45] [INFO] Loading enemy trainers
+[08:48:45] [INFO] Loading image: character/ow1.png
+[08:48:45] [INFO] Loading image: exclamation.png
+[08:48:45] [INFO] Loading Player
+[08:48:45] [INFO] Loading bag
+[08:48:45] [INFO] Loading image: ingame_ui/options1.png
+[08:48:45] [INFO] Changing scene to 'menu'
+[08:48:45] [INFO] Running the Game Loop ...
+[08:48:45] [INFO] Entering menu scene
+[08:48:45] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:49:02] [INFO] Initializing SceneManager
+[08:49:02] [INFO] Initializing Engine
+[08:49:02] [INFO] Loading image: backgrounds/background1.png
+[08:49:02] [INFO] Loading image: UI/button_play.png
+[08:49:02] [INFO] Loading image: UI/button_setting.png
+[08:49:02] [INFO] Loading maps
+[08:49:02] [INFO] Loading enemy trainers
+[08:49:02] [INFO] Loading image: character/ow1.png
+[08:49:02] [INFO] Loading image: exclamation.png
+[08:49:02] [INFO] Loading Player
+[08:49:02] [INFO] Loading bag
+[08:49:02] [INFO] Loading image: ingame_ui/options1.png
+[08:49:02] [INFO] Changing scene to 'menu'
+[08:49:02] [INFO] Running the Game Loop ...
+[08:49:02] [INFO] Entering menu scene
+[08:49:02] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:49:20] [INFO] Initializing SceneManager
+[08:49:21] [INFO] Initializing Engine
+[08:49:21] [INFO] Loading image: backgrounds/background1.png
+[08:49:21] [INFO] Loading image: UI/button_play.png
+[08:49:21] [INFO] Loading image: UI/button_setting.png
+[08:49:21] [INFO] Loading maps
+[08:49:21] [INFO] Loading enemy trainers
+[08:49:21] [INFO] Loading image: character/ow1.png
+[08:49:21] [INFO] Loading image: exclamation.png
+[08:49:21] [INFO] Loading Player
+[08:49:21] [INFO] Loading bag
+[08:49:21] [INFO] Loading image: ingame_ui/options1.png
+[08:49:21] [INFO] Changing scene to 'menu'
+[08:49:21] [INFO] Running the Game Loop ...
+[08:49:21] [INFO] Entering menu scene
+[08:49:21] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:57:17] [INFO] Initializing SceneManager
+[08:57:18] [INFO] Initializing Engine
+[08:57:18] [INFO] Loading image: backgrounds/background1.png
+[08:57:18] [INFO] Loading image: UI/button_play.png
+[08:57:18] [INFO] Loading image: UI/button_play_hover.png
+[08:57:18] [INFO] Loading image: UI/button_setting.png
+[08:57:18] [INFO] Loading maps
+[08:57:18] [INFO] Loading enemy trainers
+[08:57:18] [INFO] Loading image: character/ow1.png
+[08:57:18] [INFO] Loading image: exclamation.png
+[08:57:18] [INFO] Loading Player
+[08:57:18] [INFO] Loading bag
+[08:57:18] [INFO] Loading image: ingame_ui/options1.png
+[08:57:18] [INFO] Changing scene to 'menu'
+[08:57:18] [INFO] Running the Game Loop ...
+[08:57:18] [INFO] Entering menu scene
+[08:57:18] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:57:42] [INFO] Initializing SceneManager
+[08:57:42] [INFO] Initializing Engine
+[08:57:42] [INFO] Loading image: backgrounds/background1.png
+[08:57:42] [INFO] Loading image: UI/button_play.png
+[08:57:42] [INFO] Loading image: UI/button_play_hover.png
+[08:57:42] [INFO] Loading image: UI/button_setting.png
+[08:57:42] [INFO] Loading maps
+[08:57:43] [INFO] Loading enemy trainers
+[08:57:43] [INFO] Loading image: character/ow1.png
+[08:57:43] [INFO] Loading image: exclamation.png
+[08:57:43] [INFO] Loading Player
+[08:57:43] [INFO] Loading bag
+[08:57:43] [INFO] Loading image: ingame_ui/options1.png
+[08:57:43] [INFO] Changing scene to 'menu'
+[08:57:43] [INFO] Running the Game Loop ...
+[08:57:43] [INFO] Entering menu scene
+[08:57:43] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:57:49] [INFO] Changing scene to 'game'
+[08:57:49] [INFO] Entering game scene
+[08:57:49] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[08:58:03] [INFO] Initializing SceneManager
+[08:58:04] [INFO] Initializing Engine
+[08:58:04] [INFO] Loading image: backgrounds/background1.png
+[08:58:04] [INFO] Loading image: UI/button_play.png
+[08:58:04] [INFO] Loading image: UI/button_play_hover.png
+[08:58:04] [INFO] Loading image: UI/button_setting.png
+[08:58:04] [INFO] Loading image: UI/button_setting_hover.png
+[08:58:04] [INFO] Loading maps
+[08:58:04] [INFO] Loading enemy trainers
+[08:58:04] [INFO] Loading image: character/ow1.png
+[08:58:04] [INFO] Loading image: exclamation.png
+[08:58:04] [INFO] Loading Player
+[08:58:04] [INFO] Loading bag
+[08:58:04] [INFO] Loading image: ingame_ui/options1.png
+[08:58:04] [INFO] Changing scene to 'menu'
+[08:58:04] [INFO] Running the Game Loop ...
+[08:58:04] [INFO] Entering menu scene
+[08:58:04] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[08:59:57] [INFO] Initializing SceneManager
+[08:59:58] [INFO] Initializing Engine
+[08:59:58] [INFO] Loading image: backgrounds/background1.png
+[08:59:58] [INFO] Loading image: UI/button_play.png
+[08:59:58] [INFO] Loading image: UI/button_play_hover.png
+[08:59:58] [INFO] Loading image: UI/button_setting.png
+[08:59:58] [INFO] Loading image: UI/button_setting_hover.png
+[08:59:58] [INFO] Loading maps
+[08:59:58] [INFO] Loading enemy trainers
+[08:59:58] [INFO] Loading image: character/ow1.png
+[08:59:58] [INFO] Loading image: exclamation.png
+[08:59:58] [INFO] Loading Player
+[08:59:58] [INFO] Loading bag
+[08:59:58] [INFO] Loading image: ingame_ui/options1.png
+[08:59:58] [INFO] Changing scene to 'menu'
+[08:59:58] [INFO] Running the Game Loop ...
+[08:59:58] [INFO] Entering menu scene
+[08:59:58] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:01:56] [INFO] Initializing SceneManager
+[09:01:56] [INFO] Initializing Engine
+[09:01:56] [INFO] Loading image: backgrounds/background1.png
+[09:01:56] [INFO] Loading image: UI/button_play.png
+[09:01:56] [INFO] Loading image: UI/button_play_hover.png
+[09:01:56] [INFO] Loading image: UI/button_setting.png
+[09:01:56] [INFO] Loading image: UI/button_setting_hover.png
+[09:01:56] [INFO] Loading maps
+[09:01:57] [INFO] Loading enemy trainers
+[09:01:57] [INFO] Loading image: character/ow1.png
+[09:01:57] [INFO] Loading image: exclamation.png
+[09:01:57] [INFO] Loading Player
+[09:01:57] [INFO] Loading bag
+[09:01:57] [INFO] Loading image: ingame_ui/options1.png
+[09:01:57] [INFO] Changing scene to 'menu'
+[09:01:57] [INFO] Running the Game Loop ...
+[09:01:57] [INFO] Entering menu scene
+[09:01:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:03:22] [INFO] Initializing SceneManager
+[09:03:22] [INFO] Initializing Engine
+[09:03:22] [INFO] Loading image: backgrounds/background1.png
+[09:03:22] [INFO] Loading image: UI/button_setting.png
+[09:03:22] [INFO] Loading image: UI/button_setting_hover.png
+[09:03:22] [INFO] Loading maps
+[09:03:22] [INFO] Loading enemy trainers
+[09:03:22] [INFO] Loading image: character/ow1.png
+[09:03:22] [INFO] Loading image: exclamation.png
+[09:03:22] [INFO] Loading Player
+[09:03:22] [INFO] Loading bag
+[09:03:22] [INFO] Loading image: ingame_ui/options1.png
+[09:03:22] [INFO] Changing scene to 'menu'
+[09:03:22] [INFO] Running the Game Loop ...
+[09:03:22] [INFO] Entering menu scene
+[09:03:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:05:05] [INFO] Initializing SceneManager
+[09:05:06] [INFO] Initializing Engine
+[09:05:06] [INFO] Loading image: backgrounds/background1.png
+[09:05:06] [INFO] Loading image: UI/button_play.png
+[09:05:06] [INFO] Loading image: UI/button_play_hover.png
+[09:05:06] [INFO] Loading image: UI/button_setting.png
+[09:05:06] [INFO] Loading image: UI/button_setting_hover.png
+[09:05:06] [INFO] Loading maps
+[09:05:06] [INFO] Loading enemy trainers
+[09:05:06] [INFO] Loading image: character/ow1.png
+[09:05:06] [INFO] Loading image: exclamation.png
+[09:05:06] [INFO] Loading Player
+[09:05:06] [INFO] Loading bag
+[09:05:06] [INFO] Loading image: ingame_ui/options1.png
+[09:05:06] [INFO] Changing scene to 'menu'
+[09:05:06] [INFO] Running the Game Loop ...
+[09:05:06] [INFO] Entering menu scene
+[09:05:06] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:05:23] [INFO] Initializing SceneManager
+[09:05:24] [INFO] Initializing Engine
+[09:05:24] [INFO] Loading image: backgrounds/background1.png
+[09:05:24] [INFO] Loading image: UI/button_play.png
+[09:05:24] [INFO] Loading image: UI/button_play_hover.png
+[09:05:24] [INFO] Loading image: UI/button_setting.png
+[09:05:24] [INFO] Loading image: UI/button_setting_hover.png
+[09:05:24] [INFO] Loading maps
+[09:05:24] [INFO] Loading enemy trainers
+[09:05:24] [INFO] Loading image: character/ow1.png
+[09:05:24] [INFO] Loading image: exclamation.png
+[09:05:24] [INFO] Loading Player
+[09:05:24] [INFO] Loading bag
+[09:05:24] [INFO] Loading image: ingame_ui/options1.png
+[09:05:24] [INFO] Changing scene to 'menu'
+[09:05:24] [INFO] Running the Game Loop ...
+[09:05:24] [INFO] Entering menu scene
+[09:05:24] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:06:03] [INFO] Initializing SceneManager
+[09:06:04] [INFO] Initializing Engine
+[09:06:04] [INFO] Loading image: backgrounds/background1.png
+[09:06:04] [INFO] Loading image: UI/button_play.png
+[09:06:04] [INFO] Loading image: UI/button_play_hover.png
+[09:06:04] [INFO] Loading maps
+[09:06:04] [INFO] Loading enemy trainers
+[09:06:04] [INFO] Loading image: character/ow1.png
+[09:06:04] [INFO] Loading image: exclamation.png
+[09:06:04] [INFO] Loading Player
+[09:06:04] [INFO] Loading bag
+[09:06:04] [INFO] Loading image: ingame_ui/options1.png
+[09:06:04] [INFO] Changing scene to 'menu'
+[09:06:04] [INFO] Running the Game Loop ...
+[09:06:04] [INFO] Entering menu scene
+[09:06:04] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:06:36] [INFO] Initializing SceneManager
+[09:06:37] [INFO] Initializing Engine
+[09:06:37] [INFO] Loading image: backgrounds/background1.png
+[09:06:37] [INFO] Loading image: UI/button_play.png
+[09:06:37] [INFO] Loading image: UI/button_play_hover.png
+[09:06:37] [INFO] Loading maps
+[09:06:37] [INFO] Loading enemy trainers
+[09:06:37] [INFO] Loading image: character/ow1.png
+[09:06:37] [INFO] Loading image: exclamation.png
+[09:06:37] [INFO] Loading Player
+[09:06:37] [INFO] Loading bag
+[09:06:37] [INFO] Loading image: ingame_ui/options1.png
+[09:06:37] [INFO] Changing scene to 'menu'
+[09:06:37] [INFO] Running the Game Loop ...
+[09:06:37] [INFO] Entering menu scene
+[09:06:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:06:59] [INFO] Initializing SceneManager
+[09:07:00] [INFO] Initializing Engine
+[09:07:00] [INFO] Loading image: backgrounds/background1.png
+[09:07:00] [INFO] Loading image: UI/button_play.png
+[09:07:00] [INFO] Loading image: UI/button_play_hover.png
+[09:07:00] [INFO] Loading image: UI/button_setting.png
+[09:07:00] [INFO] Loading image: UI/button_setting_hover.png
+[09:07:00] [INFO] Loading maps
+[09:07:00] [INFO] Loading enemy trainers
+[09:07:00] [INFO] Loading image: character/ow1.png
+[09:07:00] [INFO] Loading image: exclamation.png
+[09:07:00] [INFO] Loading Player
+[09:07:00] [INFO] Loading bag
+[09:07:00] [INFO] Loading image: ingame_ui/options1.png
+[09:07:00] [INFO] Changing scene to 'menu'
+[09:07:00] [INFO] Running the Game Loop ...
+[09:07:00] [INFO] Entering menu scene
+[09:07:00] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:07:13] [INFO] Initializing SceneManager
+[09:07:14] [INFO] Initializing Engine
+[09:07:14] [INFO] Loading image: backgrounds/background1.png
+[09:07:14] [INFO] Loading image: UI/button_play.png
+[09:07:14] [INFO] Loading image: UI/button_play_hover.png
+[09:07:14] [INFO] Loading image: UI/button_setting.png
+[09:07:14] [INFO] Loading image: UI/button_setting_hover.png
+[09:07:14] [INFO] Loading maps
+[09:07:14] [INFO] Loading enemy trainers
+[09:07:14] [INFO] Loading image: character/ow1.png
+[09:07:14] [INFO] Loading image: exclamation.png
+[09:07:14] [INFO] Loading Player
+[09:07:14] [INFO] Loading bag
+[09:07:14] [INFO] Loading image: ingame_ui/options1.png
+[09:07:14] [INFO] Changing scene to 'menu'
+[09:07:14] [INFO] Running the Game Loop ...
+[09:07:14] [INFO] Entering menu scene
+[09:07:14] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:07:21] [INFO] Changing scene to 'game'
+[09:07:21] [INFO] Entering game scene
+[09:07:21] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:13:56] [INFO] Initializing SceneManager
+[09:13:57] [INFO] Initializing Engine
+[09:13:57] [INFO] Loading image: backgrounds/background1.png
+[09:13:57] [INFO] Loading image: UI/button_play.png
+[09:13:57] [INFO] Loading image: UI/button_play_hover.png
+[09:13:57] [INFO] Loading image: UI/button_setting.png
+[09:13:57] [INFO] Loading image: UI/button_setting_hover.png
+[09:13:57] [INFO] Loading maps
+[09:13:57] [INFO] Loading enemy trainers
+[09:13:57] [INFO] Loading image: character/ow1.png
+[09:13:57] [INFO] Loading image: exclamation.png
+[09:13:57] [INFO] Loading Player
+[09:13:57] [INFO] Loading bag
+[09:13:57] [INFO] Loading image: ingame_ui/options1.png
+[09:13:57] [INFO] Changing scene to 'menu'
+[09:13:57] [INFO] Running the Game Loop ...
+[09:13:57] [INFO] Entering menu scene
+[09:13:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:13:58] [INFO] Changing scene to 'game'
+[09:13:58] [INFO] Entering game scene
+[09:13:58] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:14:23] [INFO] Initializing SceneManager
+[09:14:24] [INFO] Initializing Engine
+[09:14:24] [INFO] Loading image: backgrounds/background1.png
+[09:14:24] [INFO] Loading image: UI/button_play.png
+[09:14:24] [INFO] Loading image: UI/button_play_hover.png
+[09:14:24] [INFO] Loading image: UI/button_setting.png
+[09:14:24] [INFO] Loading image: UI/button_setting_hover.png
+[09:14:24] [INFO] Loading maps
+[09:14:24] [INFO] Loading enemy trainers
+[09:14:24] [INFO] Loading image: character/ow1.png
+[09:14:24] [INFO] Loading image: exclamation.png
+[09:14:24] [INFO] Loading Player
+[09:14:24] [INFO] Loading bag
+[09:14:24] [INFO] Loading image: ingame_ui/options1.png
+[09:14:24] [INFO] Changing scene to 'menu'
+[09:14:24] [INFO] Running the Game Loop ...
+[09:14:24] [INFO] Entering menu scene
+[09:14:24] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:14:25] [INFO] Changing scene to 'game'
+[09:14:25] [INFO] Entering game scene
+[09:14:25] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:14:37] [INFO] Initializing SceneManager
+[09:14:37] [INFO] Initializing Engine
+[09:14:37] [INFO] Loading image: backgrounds/background1.png
+[09:14:37] [INFO] Loading image: UI/button_play.png
+[09:14:37] [INFO] Loading image: UI/button_play_hover.png
+[09:14:37] [INFO] Loading image: UI/button_setting.png
+[09:14:37] [INFO] Loading image: UI/button_setting_hover.png
+[09:14:37] [INFO] Loading maps
+[09:14:37] [INFO] Loading enemy trainers
+[09:14:37] [INFO] Loading image: character/ow1.png
+[09:14:37] [INFO] Loading image: exclamation.png
+[09:14:37] [INFO] Loading Player
+[09:14:37] [INFO] Loading bag
+[09:14:37] [INFO] Loading image: ingame_ui/options1.png
+[09:14:37] [INFO] Changing scene to 'menu'
+[09:14:37] [INFO] Running the Game Loop ...
+[09:14:37] [INFO] Entering menu scene
+[09:14:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:14:38] [INFO] Changing scene to 'game'
+[09:14:38] [INFO] Entering game scene
+[09:14:38] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:16:09] [INFO] Initializing SceneManager
+[09:16:10] [INFO] Initializing Engine
+[09:16:10] [INFO] Loading image: backgrounds/background1.png
+[09:16:10] [INFO] Loading image: UI/button_play.png
+[09:16:10] [INFO] Loading image: UI/button_play_hover.png
+[09:16:10] [INFO] Loading image: UI/button_setting.png
+[09:16:10] [INFO] Loading image: UI/button_setting_hover.png
+[09:16:10] [INFO] Loading maps
+[09:16:10] [INFO] Loading enemy trainers
+[09:16:10] [INFO] Loading image: character/ow1.png
+[09:16:10] [INFO] Loading image: exclamation.png
+[09:16:10] [INFO] Loading Player
+[09:16:10] [INFO] Loading bag
+[09:16:10] [INFO] Loading image: ingame_ui/options1.png
+[09:16:10] [INFO] Changing scene to 'menu'
+[09:16:10] [INFO] Running the Game Loop ...
+[09:16:10] [INFO] Entering menu scene
+[09:16:10] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:16:11] [INFO] Changing scene to 'game'
+[09:16:11] [INFO] Entering game scene
+[09:16:11] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:16:47] [INFO] Initializing SceneManager
+[09:16:48] [INFO] Initializing Engine
+[09:16:48] [INFO] Loading image: backgrounds/background1.png
+[09:16:48] [INFO] Loading image: UI/button_play.png
+[09:16:48] [INFO] Loading image: UI/button_play_hover.png
+[09:16:48] [INFO] Loading image: UI/button_setting.png
+[09:16:48] [INFO] Loading image: UI/button_setting_hover.png
+[09:16:48] [INFO] Loading maps
+[09:16:48] [INFO] Loading enemy trainers
+[09:16:48] [INFO] Loading image: character/ow1.png
+[09:16:48] [INFO] Loading image: exclamation.png
+[09:16:48] [INFO] Loading Player
+[09:16:48] [INFO] Loading bag
+[09:16:48] [INFO] Loading image: ingame_ui/options1.png
+[09:16:48] [INFO] Changing scene to 'menu'
+[09:16:48] [INFO] Running the Game Loop ...
+[09:16:48] [INFO] Entering menu scene
+[09:16:48] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:16:49] [INFO] Changing scene to 'game'
+[09:16:49] [INFO] Entering game scene
+[09:16:49] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:21:29] [INFO] Initializing SceneManager
+[09:21:29] [INFO] Initializing Engine
+[09:21:29] [INFO] Loading image: backgrounds/background1.png
+[09:21:29] [INFO] Loading image: UI/button_play.png
+[09:21:29] [INFO] Loading image: UI/button_play_hover.png
+[09:21:29] [INFO] Loading image: UI/button_setting.png
+[09:21:29] [INFO] Loading image: UI/button_setting_hover.png
+[09:21:29] [INFO] Loading maps
+[09:21:29] [INFO] Loading enemy trainers
+[09:21:29] [INFO] Loading image: character/ow1.png
+[09:21:29] [INFO] Loading image: exclamation.png
+[09:21:29] [INFO] Loading Player
+[09:21:29] [INFO] Loading bag
+[09:21:29] [INFO] Loading image: ingame_ui/options1.png
+[09:21:29] [INFO] Changing scene to 'menu'
+[09:21:29] [INFO] Running the Game Loop ...
+[09:21:29] [INFO] Entering menu scene
+[09:21:29] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:21:30] [INFO] Changing scene to 'game'
+[09:21:30] [INFO] Entering game scene
+[09:21:30] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:22:49] [INFO] Initializing SceneManager
+[09:22:50] [INFO] Initializing Engine
+[09:22:50] [INFO] Loading image: backgrounds/background1.png
+[09:22:50] [INFO] Loading image: UI/button_play.png
+[09:22:50] [INFO] Loading image: UI/button_play_hover.png
+[09:22:50] [INFO] Loading image: UI/button_setting.png
+[09:22:50] [INFO] Loading image: UI/button_setting_hover.png
+[09:22:50] [INFO] Loading maps
+[09:22:50] [INFO] Loading enemy trainers
+[09:22:50] [INFO] Loading image: character/ow1.png
+[09:22:50] [INFO] Loading image: exclamation.png
+[09:22:50] [INFO] Loading Player
+[09:22:50] [INFO] Loading bag
+[09:22:50] [INFO] Loading image: ingame_ui/options1.png
+[09:22:50] [INFO] Changing scene to 'menu'
+[09:22:50] [INFO] Running the Game Loop ...
+[09:22:50] [INFO] Entering menu scene
+[09:22:50] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:22:51] [INFO] Changing scene to 'game'
+[09:22:51] [INFO] Entering game scene
+[09:22:51] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:23:36] [INFO] Initializing SceneManager
+[09:23:36] [INFO] Initializing Engine
+[09:23:36] [INFO] Loading image: backgrounds/background1.png
+[09:23:36] [INFO] Loading image: UI/button_play.png
+[09:23:36] [INFO] Loading image: UI/button_play_hover.png
+[09:23:36] [INFO] Loading image: UI/button_setting.png
+[09:23:36] [INFO] Loading image: UI/button_setting_hover.png
+[09:23:37] [INFO] Loading maps
+[09:23:37] [INFO] Loading enemy trainers
+[09:23:37] [INFO] Loading image: character/ow1.png
+[09:23:37] [INFO] Loading image: exclamation.png
+[09:23:37] [INFO] Loading Player
+[09:23:37] [INFO] Loading bag
+[09:23:37] [INFO] Loading image: ingame_ui/options1.png
+[09:23:37] [INFO] Changing scene to 'menu'
+[09:23:37] [INFO] Running the Game Loop ...
+[09:23:37] [INFO] Entering menu scene
+[09:23:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:23:38] [INFO] Changing scene to 'game'
+[09:23:38] [INFO] Entering game scene
+[09:23:38] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:24:39] [INFO] Initializing SceneManager
+[09:24:39] [INFO] Initializing Engine
+[09:24:39] [INFO] Loading image: backgrounds/background1.png
+[09:24:39] [INFO] Loading image: UI/button_play.png
+[09:24:39] [INFO] Loading image: UI/button_play_hover.png
+[09:24:39] [INFO] Loading image: UI/button_setting.png
+[09:24:39] [INFO] Loading image: UI/button_setting_hover.png
+[09:24:39] [INFO] Loading maps
+[09:24:39] [INFO] Loading enemy trainers
+[09:24:39] [INFO] Loading image: character/ow1.png
+[09:24:39] [INFO] Loading image: exclamation.png
+[09:24:39] [INFO] Loading Player
+[09:24:39] [INFO] Loading bag
+[09:24:39] [INFO] Loading image: ingame_ui/options1.png
+[09:24:39] [INFO] Changing scene to 'menu'
+[09:24:39] [INFO] Running the Game Loop ...
+[09:24:39] [INFO] Entering menu scene
+[09:24:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:24:41] [INFO] Changing scene to 'game'
+[09:24:41] [INFO] Entering game scene
+[09:24:41] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:28:08] [INFO] Initializing SceneManager
+[09:28:09] [INFO] Initializing Engine
+[09:28:09] [INFO] Loading image: backgrounds/background1.png
+[09:28:09] [INFO] Loading image: UI/button_play.png
+[09:28:09] [INFO] Loading image: UI/button_play_hover.png
+[09:28:09] [INFO] Loading image: UI/button_setting.png
+[09:28:09] [INFO] Loading image: UI/button_setting_hover.png
+[09:28:09] [INFO] Loading maps
+[09:28:09] [INFO] Loading enemy trainers
+[09:28:09] [INFO] Loading image: character/ow1.png
+[09:28:09] [INFO] Loading image: exclamation.png
+[09:28:09] [INFO] Loading Player
+[09:28:09] [INFO] Loading bag
+[09:28:09] [INFO] Loading image: ingame_ui/options1.png
+[09:28:09] [INFO] Changing scene to 'menu'
+[09:28:09] [INFO] Running the Game Loop ...
+[09:28:09] [INFO] Entering menu scene
+[09:28:09] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:28:10] [INFO] Changing scene to 'game'
+[09:28:10] [INFO] Entering game scene
+[09:28:10] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:28:26] [INFO] Initializing SceneManager
+[09:28:26] [INFO] Initializing Engine
+[09:28:26] [INFO] Loading image: backgrounds/background1.png
+[09:28:26] [INFO] Loading image: UI/button_play.png
+[09:28:26] [INFO] Loading image: UI/button_play_hover.png
+[09:28:26] [INFO] Loading image: UI/button_setting.png
+[09:28:26] [INFO] Loading image: UI/button_setting_hover.png
+[09:28:26] [INFO] Loading maps
+[09:28:26] [INFO] Loading enemy trainers
+[09:28:26] [INFO] Loading image: character/ow1.png
+[09:28:26] [INFO] Loading image: exclamation.png
+[09:28:26] [INFO] Loading Player
+[09:28:26] [INFO] Loading bag
+[09:28:26] [INFO] Loading image: ingame_ui/options1.png
+[09:28:26] [INFO] Changing scene to 'menu'
+[09:28:26] [INFO] Running the Game Loop ...
+[09:28:26] [INFO] Entering menu scene
+[09:28:26] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:28:27] [INFO] Changing scene to 'game'
+[09:28:27] [INFO] Entering game scene
+[09:28:27] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:30:10] [INFO] Initializing SceneManager
+[09:30:10] [INFO] Initializing Engine
+[09:30:10] [INFO] Loading image: backgrounds/background1.png
+[09:30:10] [INFO] Loading image: UI/button_play.png
+[09:30:10] [INFO] Loading image: UI/button_play_hover.png
+[09:30:10] [INFO] Loading image: UI/button_setting.png
+[09:30:10] [INFO] Loading image: UI/button_setting_hover.png
+[09:30:10] [INFO] Loading maps
+[09:30:11] [INFO] Loading enemy trainers
+[09:30:11] [INFO] Loading image: character/ow1.png
+[09:30:11] [INFO] Loading image: exclamation.png
+[09:30:11] [INFO] Loading Player
+[09:30:11] [INFO] Loading bag
+[09:30:11] [INFO] Loading image: ingame_ui/options1.png
+[09:30:11] [INFO] Changing scene to 'menu'
+[09:30:11] [INFO] Running the Game Loop ...
+[09:30:11] [INFO] Entering menu scene
+[09:30:11] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:30:11] [INFO] Changing scene to 'game'
+[09:30:11] [INFO] Entering game scene
+[09:30:11] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:30:31] [INFO] Initializing SceneManager
+[09:30:32] [INFO] Initializing Engine
+[09:30:32] [INFO] Loading image: backgrounds/background1.png
+[09:30:32] [INFO] Loading image: UI/button_play.png
+[09:30:32] [INFO] Loading image: UI/button_play_hover.png
+[09:30:32] [INFO] Loading image: UI/button_setting.png
+[09:30:32] [INFO] Loading image: UI/button_setting_hover.png
+[09:30:32] [INFO] Loading maps
+[09:30:32] [INFO] Loading enemy trainers
+[09:30:32] [INFO] Loading image: character/ow1.png
+[09:30:32] [INFO] Loading image: exclamation.png
+[09:30:32] [INFO] Loading Player
+[09:30:32] [INFO] Loading bag
+[09:30:32] [INFO] Loading image: ingame_ui/options1.png
+[09:30:32] [INFO] Changing scene to 'menu'
+[09:30:32] [INFO] Running the Game Loop ...
+[09:30:32] [INFO] Entering menu scene
+[09:30:32] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:30:33] [INFO] Changing scene to 'game'
+[09:30:33] [INFO] Entering game scene
+[09:30:33] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:31:12] [INFO] Initializing SceneManager
+[09:31:13] [INFO] Initializing Engine
+[09:31:13] [INFO] Loading image: backgrounds/background1.png
+[09:31:13] [INFO] Loading image: UI/button_play.png
+[09:31:13] [INFO] Loading image: UI/button_play_hover.png
+[09:31:13] [INFO] Loading image: UI/button_setting.png
+[09:31:13] [INFO] Loading image: UI/button_setting_hover.png
+[09:31:13] [INFO] Loading maps
+[09:31:13] [INFO] Loading enemy trainers
+[09:31:13] [INFO] Loading image: character/ow1.png
+[09:31:13] [INFO] Loading image: exclamation.png
+[09:31:13] [INFO] Loading Player
+[09:31:13] [INFO] Loading bag
+[09:31:13] [INFO] Loading image: ingame_ui/options1.png
+[09:31:13] [INFO] Changing scene to 'menu'
+[09:31:13] [INFO] Running the Game Loop ...
+[09:31:13] [INFO] Entering menu scene
+[09:31:13] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:31:14] [INFO] Changing scene to 'game'
+[09:31:14] [INFO] Entering game scene
+[09:31:14] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:31:47] [INFO] Initializing SceneManager
+[09:31:47] [INFO] Initializing Engine
+[09:31:47] [INFO] Loading image: backgrounds/background1.png
+[09:31:47] [INFO] Loading image: UI/button_play.png
+[09:31:47] [INFO] Loading image: UI/button_play_hover.png
+[09:31:47] [INFO] Loading image: UI/button_setting.png
+[09:31:47] [INFO] Loading image: UI/button_setting_hover.png
+[09:31:47] [INFO] Loading maps
+[09:31:47] [INFO] Loading enemy trainers
+[09:31:47] [INFO] Loading image: character/ow1.png
+[09:31:47] [INFO] Loading image: exclamation.png
+[09:31:47] [INFO] Loading Player
+[09:31:47] [INFO] Loading bag
+[09:31:47] [INFO] Loading image: ingame_ui/options1.png
+[09:31:47] [INFO] Changing scene to 'menu'
+[09:31:47] [INFO] Running the Game Loop ...
+[09:31:47] [INFO] Entering menu scene
+[09:31:47] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:31:50] [INFO] Changing scene to 'game'
+[09:31:50] [INFO] Entering game scene
+[09:31:50] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:38:14] [INFO] Initializing SceneManager
+[09:38:15] [INFO] Initializing Engine
+[09:38:15] [INFO] Loading image: backgrounds/background1.png
+[09:38:15] [INFO] Loading image: UI/button_play.png
+[09:38:15] [INFO] Loading image: UI/button_play_hover.png
+[09:38:15] [INFO] Loading image: UI/button_setting.png
+[09:38:15] [INFO] Loading image: UI/button_setting_hover.png
+[09:38:15] [INFO] Loading maps
+[09:38:15] [INFO] Loading enemy trainers
+[09:38:15] [INFO] Loading image: character/ow1.png
+[09:38:15] [INFO] Loading image: exclamation.png
+[09:38:15] [INFO] Loading Player
+[09:38:15] [INFO] Loading bag
+[09:38:15] [INFO] Loading image: ingame_ui/options1.png
+[09:38:15] [INFO] Changing scene to 'menu'
+[09:38:15] [INFO] Running the Game Loop ...
+[09:38:15] [INFO] Entering menu scene
+[09:38:15] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:38:16] [INFO] Changing scene to 'game'
+[09:38:16] [INFO] Entering game scene
+[09:38:16] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:41:15] [INFO] Initializing SceneManager
+[09:41:15] [INFO] Initializing Engine
+[09:41:15] [INFO] Loading image: backgrounds/background1.png
+[09:41:15] [INFO] Loading image: UI/button_play.png
+[09:41:15] [INFO] Loading image: UI/button_play_hover.png
+[09:41:15] [INFO] Loading image: UI/button_setting.png
+[09:41:15] [INFO] Loading image: UI/button_setting_hover.png
+[09:41:15] [INFO] Loading maps
+[09:41:16] [INFO] Loading enemy trainers
+[09:41:16] [INFO] Loading image: character/ow1.png
+[09:41:16] [INFO] Loading image: exclamation.png
+[09:41:16] [INFO] Loading Player
+[09:41:16] [INFO] Loading bag
+[09:41:16] [INFO] Loading image: ingame_ui/options1.png
+[09:41:16] [INFO] Changing scene to 'menu'
+[09:41:16] [INFO] Running the Game Loop ...
+[09:41:16] [INFO] Entering menu scene
+[09:41:16] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:41:16] [INFO] Changing scene to 'game'
+[09:41:16] [INFO] Entering game scene
+[09:41:16] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:42:36] [INFO] Initializing SceneManager
+[09:42:37] [INFO] Initializing Engine
+[09:42:37] [INFO] Loading image: backgrounds/background1.png
+[09:42:37] [INFO] Loading image: UI/button_play.png
+[09:42:37] [INFO] Loading image: UI/button_play_hover.png
+[09:42:37] [INFO] Loading image: UI/button_setting.png
+[09:42:37] [INFO] Loading image: UI/button_setting_hover.png
+[09:42:37] [INFO] Loading maps
+[09:42:37] [INFO] Loading enemy trainers
+[09:42:37] [INFO] Loading image: character/ow1.png
+[09:42:37] [INFO] Loading image: exclamation.png
+[09:42:37] [INFO] Loading Player
+[09:42:37] [INFO] Loading bag
+[09:42:37] [INFO] Loading image: ingame_ui/options1.png
+[09:42:37] [INFO] Changing scene to 'menu'
+[09:42:37] [INFO] Running the Game Loop ...
+[09:42:37] [INFO] Entering menu scene
+[09:42:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:42:42] [INFO] Changing scene to 'game'
+[09:42:42] [INFO] Entering game scene
+[09:42:42] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[09:52:19] [INFO] Initializing SceneManager
+[09:52:20] [INFO] Initializing Engine
+[09:52:20] [INFO] Loading image: backgrounds/background1.png
+[09:52:20] [INFO] Loading image: UI/button_play.png
+[09:52:20] [INFO] Loading image: UI/button_play_hover.png
+[09:52:20] [INFO] Loading image: UI/button_setting.png
+[09:52:20] [INFO] Loading image: UI/button_setting_hover.png
+[09:52:20] [INFO] Loading maps
+[09:52:20] [INFO] Loading enemy trainers
+[09:52:20] [INFO] Loading image: character/ow1.png
+[09:52:20] [INFO] Loading image: exclamation.png
+[09:52:20] [INFO] Loading Player
+[09:52:20] [INFO] Loading bag
+[09:52:20] [INFO] Loading image: ingame_ui/options1.png
+[09:52:20] [INFO] Changing scene to 'menu'
+[09:52:20] [INFO] Running the Game Loop ...
+[09:52:20] [INFO] Entering menu scene
+[09:52:20] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[09:52:24] [INFO] Changing scene to 'game'
+[09:52:24] [INFO] Entering game scene
+[09:52:24] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:09:05] [INFO] Initializing SceneManager
+[10:09:06] [INFO] Initializing Engine
+[10:09:06] [INFO] Loading image: backgrounds/background1.png
+[10:09:06] [INFO] Loading image: UI/button_play.png
+[10:09:06] [INFO] Loading image: UI/button_play_hover.png
+[10:09:06] [INFO] Loading image: UI/button_setting.png
+[10:09:06] [INFO] Loading image: UI/button_setting_hover.png
+[10:09:06] [INFO] Loading maps
+[10:09:06] [INFO] Loading enemy trainers
+[10:09:06] [INFO] Loading image: character/ow1.png
+[10:09:06] [INFO] Loading image: exclamation.png
+[10:09:06] [INFO] Loading Player
+[10:09:06] [INFO] Loading bag
+[10:09:06] [INFO] Loading image: ingame_ui/options1.png
+[10:09:06] [INFO] Changing scene to 'menu'
+[10:09:06] [INFO] Running the Game Loop ...
+[10:09:06] [INFO] Entering menu scene
+[10:09:06] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:09:08] [INFO] Changing scene to 'game'
+[10:09:08] [INFO] Entering game scene
+[10:09:08] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:12:04] [INFO] Initializing SceneManager
+[10:12:04] [INFO] Initializing Engine
+[10:12:04] [INFO] Loading image: backgrounds/background1.png
+[10:12:04] [INFO] Loading image: UI/button_play.png
+[10:12:04] [INFO] Loading image: UI/button_play_hover.png
+[10:12:04] [INFO] Loading image: UI/button_setting.png
+[10:12:04] [INFO] Loading image: UI/button_setting_hover.png
+[10:12:04] [INFO] Loading maps
+[10:12:04] [INFO] Loading enemy trainers
+[10:12:04] [INFO] Loading image: character/ow1.png
+[10:12:04] [INFO] Loading image: exclamation.png
+[10:12:04] [INFO] Loading Player
+[10:12:04] [INFO] Loading bag
+[10:12:04] [INFO] Loading image: ingame_ui/options1.png
+[10:12:04] [INFO] Changing scene to 'menu'
+[10:12:04] [INFO] Running the Game Loop ...
+[10:12:04] [INFO] Entering menu scene
+[10:12:04] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:12:06] [INFO] Changing scene to 'game'
+[10:12:06] [INFO] Entering game scene
+[10:12:06] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:14:49] [INFO] Initializing SceneManager
+[10:14:49] [INFO] Initializing Engine
+[10:14:49] [INFO] Loading image: backgrounds/background1.png
+[10:14:49] [INFO] Loading image: UI/button_play.png
+[10:14:49] [INFO] Loading image: UI/button_play_hover.png
+[10:14:49] [INFO] Loading image: UI/button_setting.png
+[10:14:49] [INFO] Loading image: UI/button_setting_hover.png
+[10:14:49] [INFO] Loading maps
+[10:14:49] [INFO] Loading enemy trainers
+[10:14:49] [INFO] Loading image: character/ow1.png
+[10:14:49] [INFO] Loading image: exclamation.png
+[10:14:49] [INFO] Loading Player
+[10:14:49] [INFO] Loading bag
+[10:14:49] [INFO] Loading image: ingame_ui/options1.png
+[10:14:49] [INFO] Changing scene to 'menu'
+[10:14:49] [INFO] Running the Game Loop ...
+[10:14:49] [INFO] Entering menu scene
+[10:14:49] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:14:51] [INFO] Changing scene to 'game'
+[10:14:51] [INFO] Entering game scene
+[10:14:51] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:19:19] [INFO] Initializing SceneManager
+[10:19:20] [INFO] Initializing Engine
+[10:19:20] [INFO] Loading image: backgrounds/background1.png
+[10:19:20] [INFO] Loading image: UI/button_play.png
+[10:19:20] [INFO] Loading image: UI/button_play_hover.png
+[10:19:20] [INFO] Loading image: UI/button_setting.png
+[10:19:20] [INFO] Loading image: UI/button_setting_hover.png
+[10:19:20] [INFO] Loading maps
+[10:19:20] [INFO] Loading enemy trainers
+[10:19:20] [INFO] Loading image: character/ow1.png
+[10:19:20] [INFO] Loading image: exclamation.png
+[10:19:20] [INFO] Loading Player
+[10:19:20] [INFO] Loading bag
+[10:19:20] [INFO] Loading image: ingame_ui/options1.png
+[10:19:20] [INFO] Changing scene to 'menu'
+[10:19:20] [INFO] Running the Game Loop ...
+[10:19:20] [INFO] Entering menu scene
+[10:19:20] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:19:21] [INFO] Changing scene to 'game'
+[10:19:21] [INFO] Entering game scene
+[10:19:21] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:22:48] [INFO] Initializing SceneManager
+[10:22:48] [INFO] Initializing Engine
+[10:22:49] [INFO] Loading image: backgrounds/background1.png
+[10:22:49] [INFO] Loading image: UI/button_play.png
+[10:22:49] [INFO] Loading image: UI/button_play_hover.png
+[10:22:49] [INFO] Loading image: UI/button_setting.png
+[10:22:49] [INFO] Loading image: UI/button_setting_hover.png
+[10:22:49] [INFO] Loading maps
+[10:22:49] [INFO] Loading enemy trainers
+[10:22:49] [INFO] Loading image: character/ow1.png
+[10:22:49] [INFO] Loading image: exclamation.png
+[10:22:49] [INFO] Loading Player
+[10:22:49] [INFO] Loading bag
+[10:22:49] [INFO] Loading image: ingame_ui/options1.png
+[10:22:49] [INFO] Changing scene to 'menu'
+[10:22:49] [INFO] Running the Game Loop ...
+[10:22:49] [INFO] Entering menu scene
+[10:22:49] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:22:49] [INFO] Changing scene to 'game'
+[10:22:49] [INFO] Entering game scene
+[10:22:49] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:23:05] [INFO] Initializing SceneManager
+[10:23:06] [INFO] Initializing Engine
+[10:23:06] [INFO] Loading image: backgrounds/background1.png
+[10:23:06] [INFO] Loading image: UI/button_play.png
+[10:23:06] [INFO] Loading image: UI/button_play_hover.png
+[10:23:06] [INFO] Loading image: UI/button_setting.png
+[10:23:06] [INFO] Loading image: UI/button_setting_hover.png
+[10:23:06] [INFO] Loading maps
+[10:23:06] [INFO] Loading enemy trainers
+[10:23:06] [INFO] Loading image: character/ow1.png
+[10:23:06] [INFO] Loading image: exclamation.png
+[10:23:06] [INFO] Loading Player
+[10:23:06] [INFO] Loading bag
+[10:23:06] [INFO] Loading image: ingame_ui/options1.png
+[10:23:06] [INFO] Changing scene to 'menu'
+[10:23:06] [INFO] Running the Game Loop ...
+[10:23:06] [INFO] Entering menu scene
+[10:23:06] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:23:06] [INFO] Changing scene to 'game'
+[10:23:06] [INFO] Entering game scene
+[10:23:06] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:23:27] [INFO] Initializing SceneManager
+[10:23:27] [INFO] Initializing Engine
+[10:23:27] [INFO] Loading image: backgrounds/background1.png
+[10:23:27] [INFO] Loading image: UI/button_play.png
+[10:23:27] [INFO] Loading image: UI/button_play_hover.png
+[10:23:27] [INFO] Loading image: UI/button_setting.png
+[10:23:27] [INFO] Loading image: UI/button_setting_hover.png
+[10:23:27] [INFO] Loading maps
+[10:23:27] [INFO] Loading enemy trainers
+[10:23:27] [INFO] Loading image: character/ow1.png
+[10:23:27] [INFO] Loading image: exclamation.png
+[10:23:27] [INFO] Loading Player
+[10:23:27] [INFO] Loading bag
+[10:23:27] [INFO] Loading image: ingame_ui/options1.png
+[10:23:27] [INFO] Changing scene to 'menu'
+[10:23:27] [INFO] Running the Game Loop ...
+[10:23:27] [INFO] Entering menu scene
+[10:23:27] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:23:29] [INFO] Changing scene to 'game'
+[10:23:29] [INFO] Entering game scene
+[10:23:29] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:33:21] [INFO] Initializing SceneManager
+[10:33:21] [INFO] Initializing Engine
+[10:33:21] [INFO] Loading image: backgrounds/background1.png
+[10:33:21] [INFO] Loading image: UI/button_play.png
+[10:33:21] [INFO] Loading image: UI/button_play_hover.png
+[10:33:21] [INFO] Loading image: UI/button_setting.png
+[10:33:21] [INFO] Loading image: UI/button_setting_hover.png
+[10:33:22] [INFO] Loading maps
+[10:33:22] [INFO] Loading enemy trainers
+[10:33:22] [INFO] Loading image: character/ow1.png
+[10:33:22] [INFO] Loading image: exclamation.png
+[10:33:22] [INFO] Loading Player
+[10:33:22] [INFO] Loading bag
+[10:33:22] [INFO] Loading image: ingame_ui/options1.png
+[10:33:22] [INFO] Changing scene to 'menu'
+[10:33:22] [INFO] Running the Game Loop ...
+[10:33:22] [INFO] Entering menu scene
+[10:33:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:33:23] [INFO] Changing scene to 'game'
+[10:33:23] [INFO] Entering game scene
+[10:33:23] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:34:37] [INFO] Initializing SceneManager
+[10:34:38] [INFO] Initializing Engine
+[10:34:38] [INFO] Loading image: backgrounds/background1.png
+[10:34:38] [INFO] Loading image: UI/button_play.png
+[10:34:38] [INFO] Loading image: UI/button_play_hover.png
+[10:34:38] [INFO] Loading image: UI/button_setting.png
+[10:34:38] [INFO] Loading image: UI/button_setting_hover.png
+[10:34:38] [INFO] Loading maps
+[10:34:38] [INFO] Loading enemy trainers
+[10:34:38] [INFO] Loading image: character/ow1.png
+[10:34:38] [INFO] Loading image: exclamation.png
+[10:34:38] [INFO] Loading Player
+[10:34:38] [INFO] Loading bag
+[10:34:38] [INFO] Loading image: ingame_ui/options1.png
+[10:34:38] [INFO] Changing scene to 'menu'
+[10:34:38] [INFO] Running the Game Loop ...
+[10:34:38] [INFO] Entering menu scene
+[10:34:38] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:34:39] [INFO] Changing scene to 'game'
+[10:34:39] [INFO] Entering game scene
+[10:34:39] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:35:27] [INFO] Initializing SceneManager
+[10:35:27] [INFO] Initializing Engine
+[10:35:27] [INFO] Loading image: backgrounds/background1.png
+[10:35:27] [INFO] Loading image: UI/button_play.png
+[10:35:27] [INFO] Loading image: UI/button_play_hover.png
+[10:35:27] [INFO] Loading image: UI/button_setting.png
+[10:35:27] [INFO] Loading image: UI/button_setting_hover.png
+[10:35:28] [INFO] Loading maps
+[10:35:28] [INFO] Loading enemy trainers
+[10:35:28] [INFO] Loading image: character/ow1.png
+[10:35:28] [INFO] Loading image: exclamation.png
+[10:35:28] [INFO] Loading Player
+[10:35:28] [INFO] Loading bag
+[10:35:28] [INFO] Loading image: ingame_ui/options1.png
+[10:35:28] [INFO] Changing scene to 'menu'
+[10:35:28] [INFO] Running the Game Loop ...
+[10:35:28] [INFO] Entering menu scene
+[10:35:28] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:35:42] [INFO] Changing scene to 'game'
+[10:35:42] [INFO] Entering game scene
+[10:35:42] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:36:26] [INFO] Initializing SceneManager
+[10:36:26] [INFO] Initializing Engine
+[10:36:26] [INFO] Loading image: backgrounds/background1.png
+[10:36:26] [INFO] Loading image: UI/button_play.png
+[10:36:26] [INFO] Loading image: UI/button_play_hover.png
+[10:36:26] [INFO] Loading image: UI/button_setting.png
+[10:36:26] [INFO] Loading image: UI/button_setting_hover.png
+[10:36:26] [INFO] Loading maps
+[10:36:26] [INFO] Loading enemy trainers
+[10:36:26] [INFO] Loading image: character/ow1.png
+[10:36:26] [INFO] Loading image: exclamation.png
+[10:36:26] [INFO] Loading Player
+[10:36:26] [INFO] Loading bag
+[10:36:26] [INFO] Loading image: ingame_ui/options1.png
+[10:36:26] [INFO] Changing scene to 'menu'
+[10:36:26] [INFO] Running the Game Loop ...
+[10:36:26] [INFO] Entering menu scene
+[10:36:26] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:36:27] [INFO] Changing scene to 'game'
+[10:36:27] [INFO] Entering game scene
+[10:36:27] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:40:55] [INFO] Initializing SceneManager
+[10:40:56] [INFO] Initializing Engine
+[10:40:56] [INFO] Loading image: backgrounds/background1.png
+[10:40:56] [INFO] Loading image: UI/button_play.png
+[10:40:56] [INFO] Loading image: UI/button_play_hover.png
+[10:40:56] [INFO] Loading image: UI/button_setting.png
+[10:40:56] [INFO] Loading image: UI/button_setting_hover.png
+[10:40:56] [INFO] Loading maps
+[10:40:56] [INFO] Loading enemy trainers
+[10:40:56] [INFO] Loading image: character/ow1.png
+[10:40:56] [INFO] Loading image: exclamation.png
+[10:40:56] [INFO] Loading Player
+[10:40:56] [INFO] Loading bag
+[10:40:56] [INFO] Loading image: ingame_ui/options1.png
+[10:40:56] [INFO] Changing scene to 'menu'
+[10:40:56] [INFO] Running the Game Loop ...
+[10:40:56] [INFO] Entering menu scene
+[10:40:56] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:40:56] [INFO] Changing scene to 'game'
+[10:40:56] [INFO] Entering game scene
+[10:40:56] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:44:09] [INFO] Initializing SceneManager
+[10:44:09] [INFO] Initializing Engine
+[10:44:09] [INFO] Loading image: backgrounds/background1.png
+[10:44:09] [INFO] Loading image: UI/button_play.png
+[10:44:09] [INFO] Loading image: UI/button_play_hover.png
+[10:44:09] [INFO] Loading image: UI/button_setting.png
+[10:44:09] [INFO] Loading image: UI/button_setting_hover.png
+[10:44:09] [INFO] Loading maps
+[10:44:09] [INFO] Loading enemy trainers
+[10:44:09] [INFO] Loading image: character/ow1.png
+[10:44:09] [INFO] Loading image: exclamation.png
+[10:44:09] [INFO] Loading Player
+[10:44:09] [INFO] Loading bag
+[10:44:09] [INFO] Loading image: ingame_ui/options1.png
+[10:44:09] [INFO] Changing scene to 'menu'
+[10:44:09] [INFO] Running the Game Loop ...
+[10:44:09] [INFO] Entering menu scene
+[10:44:09] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:44:11] [INFO] Changing scene to 'game'
+[10:44:11] [INFO] Entering game scene
+[10:44:11] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:44:33] [INFO] Initializing SceneManager
+[10:44:33] [INFO] Initializing Engine
+[10:44:33] [INFO] Loading image: backgrounds/background1.png
+[10:44:33] [INFO] Loading image: UI/button_play.png
+[10:44:33] [INFO] Loading image: UI/button_play_hover.png
+[10:44:33] [INFO] Loading image: UI/button_setting.png
+[10:44:33] [INFO] Loading image: UI/button_setting_hover.png
+[10:44:33] [INFO] Loading maps
+[10:44:33] [INFO] Loading enemy trainers
+[10:44:33] [INFO] Loading image: character/ow1.png
+[10:44:33] [INFO] Loading image: exclamation.png
+[10:44:33] [INFO] Loading Player
+[10:44:33] [INFO] Loading bag
+[10:44:33] [INFO] Loading image: ingame_ui/options1.png
+[10:44:33] [INFO] Changing scene to 'menu'
+[10:44:33] [INFO] Running the Game Loop ...
+[10:44:33] [INFO] Entering menu scene
+[10:44:33] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:44:35] [INFO] Changing scene to 'game'
+[10:44:35] [INFO] Entering game scene
+[10:44:35] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:45:21] [INFO] Initializing SceneManager
+[10:45:21] [INFO] Initializing Engine
+[10:45:22] [INFO] Loading image: backgrounds/background1.png
+[10:45:22] [INFO] Loading image: UI/button_play.png
+[10:45:22] [INFO] Loading image: UI/button_play_hover.png
+[10:45:22] [INFO] Loading image: UI/button_setting.png
+[10:45:22] [INFO] Loading image: UI/button_setting_hover.png
+[10:45:22] [INFO] Loading maps
+[10:45:22] [INFO] Loading enemy trainers
+[10:45:22] [INFO] Loading image: character/ow1.png
+[10:45:22] [INFO] Loading image: exclamation.png
+[10:45:22] [INFO] Loading Player
+[10:45:22] [INFO] Loading bag
+[10:45:22] [INFO] Loading image: ingame_ui/options1.png
+[10:45:22] [INFO] Changing scene to 'menu'
+[10:45:22] [INFO] Running the Game Loop ...
+[10:45:22] [INFO] Entering menu scene
+[10:45:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:45:22] [INFO] Changing scene to 'game'
+[10:45:22] [INFO] Entering game scene
+[10:45:22] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:45:45] [INFO] Initializing SceneManager
+[10:45:45] [INFO] Initializing Engine
+[10:45:45] [INFO] Loading image: backgrounds/background1.png
+[10:45:45] [INFO] Loading image: UI/button_play.png
+[10:45:45] [INFO] Loading image: UI/button_play_hover.png
+[10:45:45] [INFO] Loading image: UI/button_setting.png
+[10:45:45] [INFO] Loading image: UI/button_setting_hover.png
+[10:45:45] [INFO] Loading maps
+[10:45:45] [INFO] Loading enemy trainers
+[10:45:45] [INFO] Loading image: character/ow1.png
+[10:45:45] [INFO] Loading image: exclamation.png
+[10:45:45] [INFO] Loading Player
+[10:45:45] [INFO] Loading bag
+[10:45:45] [INFO] Loading image: ingame_ui/options1.png
+[10:45:45] [INFO] Changing scene to 'menu'
+[10:45:45] [INFO] Running the Game Loop ...
+[10:45:45] [INFO] Entering menu scene
+[10:45:45] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:45:47] [INFO] Changing scene to 'game'
+[10:45:47] [INFO] Entering game scene
+[10:45:47] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:46:03] [INFO] Initializing SceneManager
+[10:46:03] [INFO] Initializing Engine
+[10:46:03] [INFO] Loading image: backgrounds/background1.png
+[10:46:03] [INFO] Loading image: UI/button_play.png
+[10:46:03] [INFO] Loading image: UI/button_play_hover.png
+[10:46:03] [INFO] Loading image: UI/button_setting.png
+[10:46:03] [INFO] Loading image: UI/button_setting_hover.png
+[10:46:03] [INFO] Loading maps
+[10:46:03] [INFO] Loading enemy trainers
+[10:46:03] [INFO] Loading image: character/ow1.png
+[10:46:03] [INFO] Loading image: exclamation.png
+[10:46:03] [INFO] Loading Player
+[10:46:03] [INFO] Loading bag
+[10:46:03] [INFO] Loading image: ingame_ui/options1.png
+[10:46:03] [INFO] Changing scene to 'menu'
+[10:46:03] [INFO] Running the Game Loop ...
+[10:46:03] [INFO] Entering menu scene
+[10:46:03] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:46:04] [INFO] Changing scene to 'game'
+[10:46:04] [INFO] Entering game scene
+[10:46:04] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:46:30] [INFO] Initializing SceneManager
+[10:46:30] [INFO] Initializing Engine
+[10:46:30] [INFO] Loading image: backgrounds/background1.png
+[10:46:30] [INFO] Loading image: UI/button_play.png
+[10:46:30] [INFO] Loading image: UI/button_play_hover.png
+[10:46:30] [INFO] Loading image: UI/button_setting.png
+[10:46:30] [INFO] Loading image: UI/button_setting_hover.png
+[10:46:30] [INFO] Loading maps
+[10:46:30] [INFO] Loading enemy trainers
+[10:46:30] [INFO] Loading image: character/ow1.png
+[10:46:30] [INFO] Loading image: exclamation.png
+[10:46:30] [INFO] Loading Player
+[10:46:30] [INFO] Loading bag
+[10:46:30] [INFO] Loading image: ingame_ui/options1.png
+[10:46:30] [INFO] Changing scene to 'menu'
+[10:46:30] [INFO] Running the Game Loop ...
+[10:46:30] [INFO] Entering menu scene
+[10:46:30] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:46:31] [INFO] Changing scene to 'game'
+[10:46:31] [INFO] Entering game scene
+[10:46:31] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:46:45] [INFO] Initializing SceneManager
+[10:46:45] [INFO] Initializing Engine
+[10:46:45] [INFO] Loading image: backgrounds/background1.png
+[10:46:45] [INFO] Loading image: UI/button_play.png
+[10:46:45] [INFO] Loading image: UI/button_play_hover.png
+[10:46:45] [INFO] Loading image: UI/button_setting.png
+[10:46:45] [INFO] Loading image: UI/button_setting_hover.png
+[10:46:45] [INFO] Loading maps
+[10:46:45] [INFO] Loading enemy trainers
+[10:46:46] [INFO] Loading image: character/ow1.png
+[10:46:46] [INFO] Loading image: exclamation.png
+[10:46:46] [INFO] Loading Player
+[10:46:46] [INFO] Loading bag
+[10:46:46] [INFO] Loading image: ingame_ui/options1.png
+[10:46:46] [INFO] Changing scene to 'menu'
+[10:46:46] [INFO] Running the Game Loop ...
+[10:46:46] [INFO] Entering menu scene
+[10:46:46] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:46:46] [INFO] Changing scene to 'game'
+[10:46:46] [INFO] Entering game scene
+[10:46:46] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:48:25] [INFO] Initializing SceneManager
+[10:48:25] [INFO] Initializing Engine
+[10:48:25] [INFO] Loading image: backgrounds/background1.png
+[10:48:25] [INFO] Loading image: UI/button_play.png
+[10:48:25] [INFO] Loading image: UI/button_play_hover.png
+[10:48:25] [INFO] Loading image: UI/button_setting.png
+[10:48:26] [INFO] Loading image: UI/button_setting_hover.png
+[10:48:26] [INFO] Loading maps
+[10:48:26] [INFO] Loading enemy trainers
+[10:48:26] [INFO] Loading image: character/ow1.png
+[10:48:26] [INFO] Loading image: exclamation.png
+[10:48:26] [INFO] Loading Player
+[10:48:26] [INFO] Loading bag
+[10:48:26] [INFO] Loading image: ingame_ui/options1.png
+[10:48:26] [INFO] Changing scene to 'menu'
+[10:48:26] [INFO] Running the Game Loop ...
+[10:48:26] [INFO] Entering menu scene
+[10:48:26] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:48:26] [INFO] Changing scene to 'game'
+[10:48:26] [INFO] Entering game scene
+[10:48:26] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:49:49] [INFO] Initializing SceneManager
+[10:49:49] [INFO] Initializing Engine
+[10:49:50] [INFO] Loading image: backgrounds/background1.png
+[10:49:50] [INFO] Loading image: UI/button_play.png
+[10:49:50] [INFO] Loading image: UI/button_play_hover.png
+[10:49:50] [INFO] Loading image: UI/button_setting.png
+[10:49:50] [INFO] Loading image: UI/button_setting_hover.png
+[10:49:50] [INFO] Loading maps
+[10:49:50] [INFO] Loading enemy trainers
+[10:49:50] [INFO] Loading image: character/ow1.png
+[10:49:50] [INFO] Loading image: exclamation.png
+[10:49:50] [INFO] Loading Player
+[10:49:50] [INFO] Loading bag
+[10:49:50] [INFO] Loading image: ingame_ui/options1.png
+[10:49:50] [INFO] Changing scene to 'menu'
+[10:49:50] [INFO] Running the Game Loop ...
+[10:49:50] [INFO] Entering menu scene
+[10:49:50] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:49:50] [INFO] Changing scene to 'game'
+[10:49:50] [INFO] Entering game scene
+[10:49:50] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:50:47] [INFO] Initializing SceneManager
+[10:50:47] [INFO] Initializing Engine
+[10:50:47] [INFO] Loading image: backgrounds/background1.png
+[10:50:47] [INFO] Loading image: UI/button_play.png
+[10:50:47] [INFO] Loading image: UI/button_play_hover.png
+[10:50:47] [INFO] Loading image: UI/button_setting.png
+[10:50:47] [INFO] Loading image: UI/button_setting_hover.png
+[10:50:47] [INFO] Loading maps
+[10:50:47] [INFO] Loading enemy trainers
+[10:50:47] [INFO] Loading image: character/ow1.png
+[10:50:47] [INFO] Loading image: exclamation.png
+[10:50:47] [INFO] Loading Player
+[10:50:47] [INFO] Loading bag
+[10:50:47] [INFO] Loading image: ingame_ui/options1.png
+[10:50:47] [INFO] Changing scene to 'menu'
+[10:50:47] [INFO] Running the Game Loop ...
+[10:50:47] [INFO] Entering menu scene
+[10:50:47] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:50:48] [INFO] Changing scene to 'game'
+[10:50:48] [INFO] Entering game scene
+[10:50:48] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:51:53] [INFO] Initializing SceneManager
+[10:51:53] [INFO] Initializing Engine
+[10:51:53] [INFO] Loading image: backgrounds/background1.png
+[10:51:53] [INFO] Loading image: UI/button_play.png
+[10:51:53] [INFO] Loading image: UI/button_play_hover.png
+[10:51:53] [INFO] Loading image: UI/button_setting.png
+[10:51:53] [INFO] Loading image: UI/button_setting_hover.png
+[10:51:53] [INFO] Loading maps
+[10:51:53] [INFO] Loading enemy trainers
+[10:51:53] [INFO] Loading image: character/ow1.png
+[10:51:53] [INFO] Loading image: exclamation.png
+[10:51:53] [INFO] Loading Player
+[10:51:53] [INFO] Loading bag
+[10:51:53] [INFO] Loading image: ingame_ui/options1.png
+[10:51:53] [INFO] Changing scene to 'menu'
+[10:51:53] [INFO] Running the Game Loop ...
+[10:51:53] [INFO] Entering menu scene
+[10:51:53] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:51:54] [INFO] Changing scene to 'game'
+[10:51:54] [INFO] Entering game scene
+[10:51:54] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:52:31] [INFO] Initializing SceneManager
+[10:52:32] [INFO] Initializing Engine
+[10:52:32] [INFO] Loading image: backgrounds/background1.png
+[10:52:32] [INFO] Loading image: UI/button_play.png
+[10:52:32] [INFO] Loading image: UI/button_play_hover.png
+[10:52:32] [INFO] Loading image: UI/button_setting.png
+[10:52:32] [INFO] Loading image: UI/button_setting_hover.png
+[10:52:32] [INFO] Loading maps
+[10:52:32] [INFO] Loading enemy trainers
+[10:52:32] [INFO] Loading image: character/ow1.png
+[10:52:32] [INFO] Loading image: exclamation.png
+[10:52:32] [INFO] Loading Player
+[10:52:32] [INFO] Loading bag
+[10:52:32] [INFO] Loading image: ingame_ui/options1.png
+[10:52:32] [INFO] Changing scene to 'menu'
+[10:52:32] [INFO] Running the Game Loop ...
+[10:52:32] [INFO] Entering menu scene
+[10:52:32] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:52:34] [INFO] Changing scene to 'game'
+[10:52:34] [INFO] Entering game scene
+[10:52:34] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:53:22] [INFO] Initializing SceneManager
+[10:53:22] [INFO] Initializing Engine
+[10:53:22] [INFO] Loading image: backgrounds/background1.png
+[10:53:22] [INFO] Loading image: UI/button_play.png
+[10:53:22] [INFO] Loading image: UI/button_play_hover.png
+[10:53:22] [INFO] Loading image: UI/button_setting.png
+[10:53:22] [INFO] Loading image: UI/button_setting_hover.png
+[10:53:22] [INFO] Loading maps
+[10:53:22] [INFO] Loading enemy trainers
+[10:53:22] [INFO] Loading image: character/ow1.png
+[10:53:22] [INFO] Loading image: exclamation.png
+[10:53:22] [INFO] Loading Player
+[10:53:22] [INFO] Loading bag
+[10:53:22] [INFO] Loading image: ingame_ui/options1.png
+[10:53:22] [INFO] Changing scene to 'menu'
+[10:53:22] [INFO] Running the Game Loop ...
+[10:53:22] [INFO] Entering menu scene
+[10:53:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:53:23] [INFO] Changing scene to 'game'
+[10:53:23] [INFO] Entering game scene
+[10:53:23] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:54:56] [INFO] Initializing SceneManager
+[10:54:57] [INFO] Initializing Engine
+[10:54:57] [INFO] Loading image: backgrounds/background1.png
+[10:54:57] [INFO] Loading image: UI/button_play.png
+[10:54:57] [INFO] Loading image: UI/button_play_hover.png
+[10:54:57] [INFO] Loading image: UI/button_setting.png
+[10:54:57] [INFO] Loading image: UI/button_setting_hover.png
+[10:54:57] [INFO] Loading maps
+[10:54:57] [INFO] Loading enemy trainers
+[10:54:57] [INFO] Loading image: character/ow1.png
+[10:54:57] [INFO] Loading image: exclamation.png
+[10:54:57] [INFO] Loading Player
+[10:54:57] [INFO] Loading bag
+[10:54:57] [INFO] Loading image: ingame_ui/options1.png
+[10:54:57] [INFO] Changing scene to 'menu'
+[10:54:57] [INFO] Running the Game Loop ...
+[10:54:57] [INFO] Entering menu scene
+[10:54:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:54:58] [INFO] Changing scene to 'game'
+[10:54:58] [INFO] Entering game scene
+[10:54:58] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:56:39] [INFO] Initializing SceneManager
+[10:56:40] [INFO] Initializing Engine
+[10:56:40] [INFO] Loading image: backgrounds/background1.png
+[10:56:40] [INFO] Loading image: UI/button_play.png
+[10:56:40] [INFO] Loading image: UI/button_play_hover.png
+[10:56:40] [INFO] Loading image: UI/button_setting.png
+[10:56:40] [INFO] Loading image: UI/button_setting_hover.png
+[10:56:40] [INFO] Loading maps
+[10:56:40] [INFO] Loading enemy trainers
+[10:56:40] [INFO] Loading image: character/ow1.png
+[10:56:40] [INFO] Loading image: exclamation.png
+[10:56:40] [INFO] Loading Player
+[10:56:40] [INFO] Loading bag
+[10:56:40] [INFO] Loading image: ingame_ui/options1.png
+[10:56:40] [INFO] Changing scene to 'menu'
+[10:56:40] [INFO] Running the Game Loop ...
+[10:56:40] [INFO] Entering menu scene
+[10:56:40] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:56:41] [INFO] Changing scene to 'game'
+[10:56:41] [INFO] Entering game scene
+[10:56:41] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:57:09] [INFO] Initializing SceneManager
+[10:57:09] [INFO] Initializing Engine
+[10:57:09] [INFO] Loading image: backgrounds/background1.png
+[10:57:09] [INFO] Loading image: UI/button_play.png
+[10:57:09] [INFO] Loading image: UI/button_play_hover.png
+[10:57:09] [INFO] Loading image: UI/button_setting.png
+[10:57:09] [INFO] Loading image: UI/button_setting_hover.png
+[10:57:09] [INFO] Loading maps
+[10:57:09] [INFO] Loading enemy trainers
+[10:57:09] [INFO] Loading image: character/ow1.png
+[10:57:09] [INFO] Loading image: exclamation.png
+[10:57:09] [INFO] Loading Player
+[10:57:09] [INFO] Loading bag
+[10:57:09] [INFO] Loading image: ingame_ui/options1.png
+[10:57:09] [INFO] Changing scene to 'menu'
+[10:57:09] [INFO] Running the Game Loop ...
+[10:57:09] [INFO] Entering menu scene
+[10:57:09] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:57:10] [INFO] Changing scene to 'game'
+[10:57:10] [INFO] Entering game scene
+[10:57:10] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[10:57:58] [INFO] Initializing SceneManager
+[10:57:58] [INFO] Initializing Engine
+[10:57:59] [INFO] Loading image: backgrounds/background1.png
+[10:57:59] [INFO] Loading image: UI/button_play.png
+[10:57:59] [INFO] Loading image: UI/button_play_hover.png
+[10:57:59] [INFO] Loading image: UI/button_setting.png
+[10:57:59] [INFO] Loading image: UI/button_setting_hover.png
+[10:57:59] [INFO] Loading maps
+[10:57:59] [INFO] Loading enemy trainers
+[10:57:59] [INFO] Loading image: character/ow1.png
+[10:57:59] [INFO] Loading image: exclamation.png
+[10:57:59] [INFO] Loading Player
+[10:57:59] [INFO] Loading bag
+[10:57:59] [INFO] Loading image: ingame_ui/options1.png
+[10:57:59] [INFO] Changing scene to 'menu'
+[10:57:59] [INFO] Running the Game Loop ...
+[10:57:59] [INFO] Entering menu scene
+[10:57:59] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[10:57:59] [INFO] Changing scene to 'game'
+[10:57:59] [INFO] Entering game scene
+[10:57:59] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:06:29] [INFO] Initializing SceneManager
+[11:06:29] [INFO] Initializing Engine
+[11:06:29] [INFO] Loading image: backgrounds/background1.png
+[11:06:29] [INFO] Loading image: UI/button_play.png
+[11:06:29] [INFO] Loading image: UI/button_play_hover.png
+[11:06:29] [INFO] Loading image: UI/button_setting.png
+[11:06:29] [INFO] Loading image: UI/button_setting_hover.png
+[11:06:29] [INFO] Loading maps
+[11:06:29] [INFO] Loading enemy trainers
+[11:06:29] [INFO] Loading image: character/ow1.png
+[11:06:29] [INFO] Loading image: exclamation.png
+[11:06:29] [INFO] Loading Player
+[11:06:29] [INFO] Loading bag
+[11:06:29] [INFO] Loading image: ingame_ui/options1.png
+[11:06:29] [INFO] Changing scene to 'menu'
+[11:06:29] [INFO] Running the Game Loop ...
+[11:06:29] [INFO] Entering menu scene
+[11:06:29] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:06:30] [INFO] Changing scene to 'game'
+[11:06:30] [INFO] Entering game scene
+[11:06:30] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:07:08] [INFO] Initializing SceneManager
+[11:07:08] [INFO] Initializing Engine
+[11:07:08] [INFO] Loading image: backgrounds/background1.png
+[11:07:08] [INFO] Loading image: UI/button_play.png
+[11:07:08] [INFO] Loading image: UI/button_play_hover.png
+[11:07:08] [INFO] Loading image: UI/button_setting.png
+[11:07:08] [INFO] Loading image: UI/button_setting_hover.png
+[11:07:08] [INFO] Loading maps
+[11:07:08] [INFO] Loading enemy trainers
+[11:07:08] [INFO] Loading image: character/ow1.png
+[11:07:08] [INFO] Loading image: exclamation.png
+[11:07:08] [INFO] Loading Player
+[11:07:08] [INFO] Loading bag
+[11:07:08] [INFO] Loading image: ingame_ui/options1.png
+[11:07:08] [INFO] Changing scene to 'menu'
+[11:07:08] [INFO] Running the Game Loop ...
+[11:07:08] [INFO] Entering menu scene
+[11:07:08] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:07:09] [INFO] Changing scene to 'game'
+[11:07:09] [INFO] Entering game scene
+[11:07:09] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:07:31] [INFO] Initializing SceneManager
+[11:07:31] [INFO] Initializing Engine
+[11:07:31] [INFO] Loading image: backgrounds/background1.png
+[11:07:31] [INFO] Loading image: UI/button_play.png
+[11:07:31] [INFO] Loading image: UI/button_play_hover.png
+[11:07:31] [INFO] Loading image: UI/button_setting.png
+[11:07:31] [INFO] Loading image: UI/button_setting_hover.png
+[11:07:31] [INFO] Loading maps
+[11:07:31] [INFO] Loading enemy trainers
+[11:07:31] [INFO] Loading image: character/ow1.png
+[11:07:31] [INFO] Loading image: exclamation.png
+[11:07:31] [INFO] Loading Player
+[11:07:31] [INFO] Loading bag
+[11:07:31] [INFO] Loading image: ingame_ui/options1.png
+[11:07:31] [INFO] Changing scene to 'menu'
+[11:07:31] [INFO] Running the Game Loop ...
+[11:07:31] [INFO] Entering menu scene
+[11:07:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:07:32] [INFO] Changing scene to 'game'
+[11:07:32] [INFO] Entering game scene
+[11:07:32] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:12:56] [INFO] Initializing SceneManager
+[11:12:56] [INFO] Initializing Engine
+[11:12:56] [INFO] Loading image: backgrounds/background1.png
+[11:12:56] [INFO] Loading image: UI/button_play.png
+[11:12:56] [INFO] Loading image: UI/button_play_hover.png
+[11:12:56] [INFO] Loading image: UI/button_setting.png
+[11:12:56] [INFO] Loading image: UI/button_setting_hover.png
+[11:12:56] [INFO] Loading maps
+[11:12:56] [INFO] Loading enemy trainers
+[11:12:56] [INFO] Loading image: character/ow1.png
+[11:12:56] [INFO] Loading image: exclamation.png
+[11:12:56] [INFO] Loading Player
+[11:12:56] [INFO] Loading bag
+[11:12:56] [INFO] Loading image: ingame_ui/options1.png
+[11:12:56] [INFO] Changing scene to 'menu'
+[11:12:56] [INFO] Running the Game Loop ...
+[11:12:56] [INFO] Entering menu scene
+[11:12:56] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:12:57] [INFO] Changing scene to 'game'
+[11:12:57] [INFO] Entering game scene
+[11:12:57] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:13:50] [INFO] Initializing SceneManager
+[11:13:50] [INFO] Initializing Engine
+[11:13:50] [INFO] Loading image: backgrounds/background1.png
+[11:13:50] [INFO] Loading image: UI/button_play.png
+[11:13:50] [INFO] Loading image: UI/button_play_hover.png
+[11:13:50] [INFO] Loading image: UI/button_setting.png
+[11:13:50] [INFO] Loading image: UI/button_setting_hover.png
+[11:13:50] [INFO] Loading maps
+[11:13:50] [INFO] Loading enemy trainers
+[11:13:50] [INFO] Loading image: character/ow1.png
+[11:13:50] [INFO] Loading image: exclamation.png
+[11:13:50] [INFO] Loading Player
+[11:13:50] [INFO] Loading bag
+[11:13:50] [INFO] Loading image: ingame_ui/options1.png
+[11:13:50] [INFO] Changing scene to 'menu'
+[11:13:50] [INFO] Running the Game Loop ...
+[11:13:50] [INFO] Entering menu scene
+[11:13:50] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:13:51] [INFO] Changing scene to 'game'
+[11:13:51] [INFO] Entering game scene
+[11:13:51] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:15:16] [INFO] Initializing SceneManager
+[11:15:17] [INFO] Initializing Engine
+[11:15:17] [INFO] Loading image: backgrounds/background1.png
+[11:15:17] [INFO] Loading image: UI/button_play.png
+[11:15:17] [INFO] Loading image: UI/button_play_hover.png
+[11:15:17] [INFO] Loading image: UI/button_setting.png
+[11:15:17] [INFO] Loading image: UI/button_setting_hover.png
+[11:15:17] [INFO] Loading maps
+[11:15:17] [INFO] Loading enemy trainers
+[11:15:17] [INFO] Loading image: character/ow1.png
+[11:15:17] [INFO] Loading image: exclamation.png
+[11:15:17] [INFO] Loading Player
+[11:15:17] [INFO] Loading bag
+[11:15:17] [INFO] Loading image: ingame_ui/options1.png
+[11:15:17] [INFO] Changing scene to 'menu'
+[11:15:17] [INFO] Running the Game Loop ...
+[11:15:17] [INFO] Entering menu scene
+[11:15:17] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:15:17] [INFO] Changing scene to 'game'
+[11:15:17] [INFO] Entering game scene
+[11:15:17] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:15:28] [INFO] Initializing SceneManager
+[11:15:28] [INFO] Initializing Engine
+[11:15:28] [INFO] Loading image: backgrounds/background1.png
+[11:15:28] [INFO] Loading image: UI/button_play.png
+[11:15:28] [INFO] Loading image: UI/button_play_hover.png
+[11:15:28] [INFO] Loading image: UI/button_setting.png
+[11:15:28] [INFO] Loading image: UI/button_setting_hover.png
+[11:15:28] [INFO] Loading maps
+[11:15:28] [INFO] Loading enemy trainers
+[11:15:28] [INFO] Loading image: character/ow1.png
+[11:15:28] [INFO] Loading image: exclamation.png
+[11:15:28] [INFO] Loading Player
+[11:15:28] [INFO] Loading bag
+[11:15:28] [INFO] Loading image: ingame_ui/options1.png
+[11:15:28] [INFO] Changing scene to 'menu'
+[11:15:28] [INFO] Running the Game Loop ...
+[11:15:28] [INFO] Entering menu scene
+[11:15:28] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:15:29] [INFO] Changing scene to 'game'
+[11:15:29] [INFO] Entering game scene
+[11:15:29] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:17:24] [INFO] Initializing SceneManager
+[11:17:24] [INFO] Initializing Engine
+[11:17:24] [INFO] Loading image: backgrounds/background1.png
+[11:17:24] [INFO] Loading image: UI/button_play.png
+[11:17:24] [INFO] Loading image: UI/button_play_hover.png
+[11:17:24] [INFO] Loading image: UI/button_setting.png
+[11:17:24] [INFO] Loading image: UI/button_setting_hover.png
+[11:17:24] [INFO] Loading maps
+[11:17:24] [INFO] Loading enemy trainers
+[11:17:24] [INFO] Loading image: character/ow1.png
+[11:17:24] [INFO] Loading image: exclamation.png
+[11:17:24] [INFO] Loading Player
+[11:17:24] [INFO] Loading bag
+[11:17:24] [INFO] Loading image: ingame_ui/options1.png
+[11:17:24] [INFO] Changing scene to 'menu'
+[11:17:24] [INFO] Running the Game Loop ...
+[11:17:24] [INFO] Entering menu scene
+[11:17:24] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:17:25] [INFO] Changing scene to 'game'
+[11:17:25] [INFO] Entering game scene
+[11:17:25] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:35:01] [INFO] Initializing SceneManager
+[11:35:02] [INFO] Initializing Engine
+[11:35:02] [INFO] Loading image: backgrounds/background1.png
+[11:35:02] [INFO] Loading image: UI/button_play.png
+[11:35:02] [INFO] Loading image: UI/button_play_hover.png
+[11:35:02] [INFO] Loading image: UI/button_setting.png
+[11:35:02] [INFO] Loading image: UI/button_setting_hover.png
+[11:35:02] [INFO] Loading maps
+[11:35:02] [INFO] Loading enemy trainers
+[11:35:02] [INFO] Loading image: character/ow1.png
+[11:35:02] [INFO] Loading image: exclamation.png
+[11:35:02] [INFO] Loading Player
+[11:35:02] [INFO] Loading bag
+[11:35:02] [INFO] Loading image: ingame_ui/options1.png
+[11:35:02] [INFO] Changing scene to 'menu'
+[11:35:02] [INFO] Running the Game Loop ...
+[11:35:02] [INFO] Entering menu scene
+[11:35:02] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:35:02] [INFO] Changing scene to 'game'
+[11:35:02] [INFO] Entering game scene
+[11:35:02] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:38:06] [INFO] Initializing SceneManager
+[11:38:06] [INFO] Initializing Engine
+[11:38:07] [INFO] Loading image: backgrounds/background1.png
+[11:38:07] [INFO] Loading image: UI/button_play.png
+[11:38:07] [INFO] Loading image: UI/button_play_hover.png
+[11:38:07] [INFO] Loading image: UI/button_setting.png
+[11:38:07] [INFO] Loading image: UI/button_setting_hover.png
+[11:38:07] [INFO] Loading maps
+[11:38:07] [INFO] Loading enemy trainers
+[11:38:07] [INFO] Loading image: character/ow1.png
+[11:38:07] [INFO] Loading image: exclamation.png
+[11:38:07] [INFO] Loading Player
+[11:38:07] [INFO] Loading bag
+[11:38:07] [INFO] Loading image: ingame_ui/options1.png
+[11:38:07] [INFO] Changing scene to 'menu'
+[11:38:07] [INFO] Running the Game Loop ...
+[11:38:07] [INFO] Entering menu scene
+[11:38:07] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:38:07] [INFO] Changing scene to 'game'
+[11:38:07] [INFO] Entering game scene
+[11:38:07] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:39:30] [INFO] Initializing SceneManager
+[11:39:31] [INFO] Initializing Engine
+[11:39:31] [INFO] Loading image: backgrounds/background1.png
+[11:39:31] [INFO] Loading image: UI/button_play.png
+[11:39:31] [INFO] Loading image: UI/button_play_hover.png
+[11:39:31] [INFO] Loading image: UI/button_setting.png
+[11:39:31] [INFO] Loading image: UI/button_setting_hover.png
+[11:39:31] [INFO] Loading maps
+[11:39:31] [INFO] Loading enemy trainers
+[11:39:31] [INFO] Loading image: character/ow1.png
+[11:39:31] [INFO] Loading image: exclamation.png
+[11:39:31] [INFO] Loading Player
+[11:39:31] [INFO] Loading bag
+[11:39:31] [INFO] Loading image: ingame_ui/options1.png
+[11:39:31] [INFO] Changing scene to 'menu'
+[11:39:31] [INFO] Running the Game Loop ...
+[11:39:31] [INFO] Entering menu scene
+[11:39:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:39:35] [INFO] Initializing SceneManager
+[11:39:36] [INFO] Initializing Engine
+[11:39:36] [INFO] Loading image: backgrounds/background1.png
+[11:39:36] [INFO] Loading image: UI/button_play.png
+[11:39:36] [INFO] Loading image: UI/button_play_hover.png
+[11:39:36] [INFO] Loading image: UI/button_setting.png
+[11:39:36] [INFO] Loading image: UI/button_setting_hover.png
+[11:39:36] [INFO] Loading maps
+[11:39:36] [INFO] Loading enemy trainers
+[11:39:36] [INFO] Loading image: character/ow1.png
+[11:39:36] [INFO] Loading image: exclamation.png
+[11:39:36] [INFO] Loading Player
+[11:39:36] [INFO] Loading bag
+[11:39:36] [INFO] Loading image: ingame_ui/options1.png
+[11:39:36] [INFO] Changing scene to 'menu'
+[11:39:36] [INFO] Running the Game Loop ...
+[11:39:36] [INFO] Entering menu scene
+[11:39:36] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:39:44] [INFO] Changing scene to 'game'
+[11:39:44] [INFO] Entering game scene
+[11:39:44] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:52:30] [INFO] Initializing SceneManager
+[11:52:30] [INFO] Initializing Engine
+[11:52:30] [INFO] Loading image: backgrounds/background1.png
+[11:52:30] [INFO] Loading image: UI/button_play.png
+[11:52:30] [INFO] Loading image: UI/button_play_hover.png
+[11:52:30] [INFO] Loading image: UI/button_setting.png
+[11:52:30] [INFO] Loading image: UI/button_setting_hover.png
+[11:52:30] [INFO] Loading maps
+[11:52:30] [INFO] Loading enemy trainers
+[11:52:30] [INFO] Loading image: character/ow1.png
+[11:52:30] [INFO] Loading image: exclamation.png
+[11:52:30] [INFO] Loading Player
+[11:52:30] [INFO] Loading bag
+[11:52:30] [INFO] Loading image: ingame_ui/options1.png
+[11:52:30] [INFO] Changing scene to 'menu'
+[11:52:30] [INFO] Running the Game Loop ...
+[11:52:30] [INFO] Entering menu scene
+[11:52:30] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:52:31] [INFO] Changing scene to 'game'
+[11:52:31] [INFO] Entering game scene
+[11:52:31] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:53:28] [INFO] Initializing SceneManager
+[11:53:29] [INFO] Initializing Engine
+[11:53:29] [INFO] Loading image: backgrounds/background1.png
+[11:53:29] [INFO] Loading image: UI/button_play.png
+[11:53:29] [INFO] Loading image: UI/button_play_hover.png
+[11:53:29] [INFO] Loading image: UI/button_setting.png
+[11:53:29] [INFO] Loading image: UI/button_setting_hover.png
+[11:53:29] [INFO] Loading maps
+[11:53:29] [INFO] Loading enemy trainers
+[11:53:29] [INFO] Loading image: character/ow1.png
+[11:53:29] [INFO] Loading image: exclamation.png
+[11:53:29] [INFO] Loading Player
+[11:53:29] [INFO] Loading bag
+[11:53:29] [INFO] Loading image: ingame_ui/options1.png
+[11:53:29] [INFO] Changing scene to 'menu'
+[11:53:29] [INFO] Running the Game Loop ...
+[11:53:29] [INFO] Entering menu scene
+[11:53:29] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:53:29] [INFO] Changing scene to 'game'
+[11:53:29] [INFO] Entering game scene
+[11:53:29] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[11:55:40] [INFO] Initializing SceneManager
+[11:55:41] [INFO] Initializing Engine
+[11:55:41] [INFO] Loading image: backgrounds/background1.png
+[11:55:41] [INFO] Loading image: UI/button_play.png
+[11:55:41] [INFO] Loading image: UI/button_play_hover.png
+[11:55:41] [INFO] Loading image: UI/button_setting.png
+[11:55:41] [INFO] Loading image: UI/button_setting_hover.png
+[11:55:41] [INFO] Loading maps
+[11:55:41] [INFO] Loading enemy trainers
+[11:55:41] [INFO] Loading image: character/ow1.png
+[11:55:41] [INFO] Loading image: exclamation.png
+[11:55:41] [INFO] Loading Player
+[11:55:41] [INFO] Loading bag
+[11:55:41] [INFO] Loading image: ingame_ui/options1.png
+[11:55:41] [INFO] Changing scene to 'menu'
+[11:55:41] [INFO] Running the Game Loop ...
+[11:55:41] [INFO] Entering menu scene
+[11:55:41] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:21] [INFO] Initializing SceneManager
+[11:56:22] [INFO] Initializing Engine
+[11:56:22] [INFO] Loading image: backgrounds/background1.png
+[11:56:22] [INFO] Loading image: UI/button_play.png
+[11:56:22] [INFO] Loading image: UI/button_play_hover.png
+[11:56:22] [INFO] Loading image: UI/button_setting.png
+[11:56:22] [INFO] Loading image: UI/button_setting_hover.png
+[11:56:22] [INFO] Loading maps
+[11:56:22] [INFO] Loading enemy trainers
+[11:56:22] [INFO] Loading image: character/ow1.png
+[11:56:22] [INFO] Loading image: exclamation.png
+[11:56:22] [INFO] Loading Player
+[11:56:22] [INFO] Loading bag
+[11:56:22] [INFO] Loading image: ingame_ui/options1.png
+[11:56:22] [INFO] Loading image: UI/button_back.png
+[11:56:22] [INFO] Loading image: UI/button_back_hover.png
+[11:56:22] [INFO] Loading image: placeholder/placeholder.jpg
+[11:56:22] [INFO] Changing scene to 'menu'
+[11:56:22] [INFO] Running the Game Loop ...
+[11:56:22] [INFO] Entering menu scene
+[11:56:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:22] [INFO] Changing scene to 'setting'
+[11:56:22] [INFO] Entering setting scene
+[11:56:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:49] [INFO] Initializing SceneManager
+[11:56:49] [INFO] Initializing Engine
+[11:56:49] [INFO] Loading image: backgrounds/background1.png
+[11:56:49] [INFO] Loading image: UI/button_play.png
+[11:56:49] [INFO] Loading image: UI/button_play_hover.png
+[11:56:49] [INFO] Loading image: UI/button_setting.png
+[11:56:49] [INFO] Loading image: UI/button_setting_hover.png
+[11:56:49] [INFO] Loading maps
+[11:56:49] [INFO] Loading enemy trainers
+[11:56:49] [INFO] Loading image: character/ow1.png
+[11:56:49] [INFO] Loading image: exclamation.png
+[11:56:49] [INFO] Loading Player
+[11:56:49] [INFO] Loading bag
+[11:56:49] [INFO] Loading image: ingame_ui/options1.png
+[11:56:49] [INFO] Loading image: UI/button_back.png
+[11:56:49] [INFO] Loading image: UI/button_back_hover.png
+[11:56:49] [INFO] Loading image: placeholder/placeholder.jpg
+[11:56:49] [INFO] Changing scene to 'menu'
+[11:56:49] [INFO] Running the Game Loop ...
+[11:56:49] [INFO] Entering menu scene
+[11:56:49] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:50] [INFO] Changing scene to 'setting'
+[11:56:50] [INFO] Entering setting scene
+[11:56:50] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:53] [INFO] Changing scene to 'setting'
+[11:56:53] [INFO] Entering setting scene
+[11:56:53] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:53] [INFO] Changing scene to 'setting'
+[11:56:53] [INFO] Entering setting scene
+[11:56:53] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:56:54] [INFO] Changing scene to 'setting'
+[11:56:54] [INFO] Entering setting scene
+[11:56:54] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:15] [INFO] Initializing SceneManager
+[11:57:16] [INFO] Initializing Engine
+[11:57:16] [INFO] Loading image: backgrounds/background1.png
+[11:57:16] [INFO] Loading image: UI/button_play.png
+[11:57:16] [INFO] Loading image: UI/button_play_hover.png
+[11:57:16] [INFO] Loading image: UI/button_setting.png
+[11:57:16] [INFO] Loading image: UI/button_setting_hover.png
+[11:57:16] [INFO] Loading maps
+[11:57:16] [INFO] Loading enemy trainers
+[11:57:16] [INFO] Loading image: character/ow1.png
+[11:57:16] [INFO] Loading image: exclamation.png
+[11:57:16] [INFO] Loading Player
+[11:57:16] [INFO] Loading bag
+[11:57:16] [INFO] Loading image: ingame_ui/options1.png
+[11:57:16] [INFO] Loading image: UI/button_back.png
+[11:57:16] [INFO] Loading image: UI/button_back_hover.png
+[11:57:16] [INFO] Loading image: placeholder/placeholder.jpg
+[11:57:16] [INFO] Changing scene to 'menu'
+[11:57:16] [INFO] Running the Game Loop ...
+[11:57:16] [INFO] Entering menu scene
+[11:57:16] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:16] [INFO] Changing scene to 'setting'
+[11:57:16] [INFO] Entering setting scene
+[11:57:16] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:20] [INFO] Changing scene to 'menu'
+[11:57:20] [INFO] Entering menu scene
+[11:57:20] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:36] [INFO] Initializing SceneManager
+[11:57:37] [INFO] Initializing Engine
+[11:57:37] [INFO] Loading image: backgrounds/background1.png
+[11:57:37] [INFO] Loading image: UI/button_play.png
+[11:57:37] [INFO] Loading image: UI/button_play_hover.png
+[11:57:37] [INFO] Loading image: UI/button_setting.png
+[11:57:37] [INFO] Loading image: UI/button_setting_hover.png
+[11:57:37] [INFO] Loading maps
+[11:57:37] [INFO] Loading enemy trainers
+[11:57:37] [INFO] Loading image: character/ow1.png
+[11:57:37] [INFO] Loading image: exclamation.png
+[11:57:37] [INFO] Loading Player
+[11:57:37] [INFO] Loading bag
+[11:57:37] [INFO] Loading image: ingame_ui/options1.png
+[11:57:37] [INFO] Loading image: UI/button_back.png
+[11:57:37] [INFO] Loading image: UI/button_back_hover.png
+[11:57:37] [INFO] Loading image: placeholder/placeholder.jpg
+[11:57:37] [INFO] Changing scene to 'menu'
+[11:57:37] [INFO] Running the Game Loop ...
+[11:57:37] [INFO] Entering menu scene
+[11:57:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:38] [INFO] Changing scene to 'setting'
+[11:57:38] [INFO] Entering setting scene
+[11:57:38] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:39] [INFO] Changing scene to 'menu'
+[11:57:39] [INFO] Entering menu scene
+[11:57:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:51] [INFO] Initializing SceneManager
+[11:57:51] [INFO] Initializing Engine
+[11:57:51] [INFO] Loading image: backgrounds/background1.png
+[11:57:51] [INFO] Loading image: UI/button_play.png
+[11:57:51] [INFO] Loading image: UI/button_play_hover.png
+[11:57:51] [INFO] Loading image: UI/button_setting.png
+[11:57:51] [INFO] Loading image: UI/button_setting_hover.png
+[11:57:51] [INFO] Loading maps
+[11:57:51] [INFO] Loading enemy trainers
+[11:57:51] [INFO] Loading image: character/ow1.png
+[11:57:51] [INFO] Loading image: exclamation.png
+[11:57:51] [INFO] Loading Player
+[11:57:51] [INFO] Loading bag
+[11:57:51] [INFO] Loading image: ingame_ui/options1.png
+[11:57:51] [INFO] Loading image: UI/button_back.png
+[11:57:51] [INFO] Loading image: UI/button_back_hover.png
+[11:57:51] [INFO] Loading image: placeholder/placeholder.jpg
+[11:57:51] [INFO] Changing scene to 'menu'
+[11:57:51] [INFO] Running the Game Loop ...
+[11:57:51] [INFO] Entering menu scene
+[11:57:51] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:52] [INFO] Changing scene to 'setting'
+[11:57:52] [INFO] Entering setting scene
+[11:57:52] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:57:55] [INFO] Changing scene to 'menu'
+[11:57:55] [INFO] Entering menu scene
+[11:57:55] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:58:21] [INFO] Initializing SceneManager
+[11:58:21] [INFO] Initializing Engine
+[11:58:21] [INFO] Loading image: backgrounds/background1.png
+[11:58:21] [INFO] Loading image: UI/button_play.png
+[11:58:21] [INFO] Loading image: UI/button_play_hover.png
+[11:58:21] [INFO] Loading image: UI/button_setting.png
+[11:58:21] [INFO] Loading image: UI/button_setting_hover.png
+[11:58:21] [INFO] Loading maps
+[11:58:21] [INFO] Loading enemy trainers
+[11:58:21] [INFO] Loading image: character/ow1.png
+[11:58:21] [INFO] Loading image: exclamation.png
+[11:58:21] [INFO] Loading Player
+[11:58:21] [INFO] Loading bag
+[11:58:21] [INFO] Loading image: ingame_ui/options1.png
+[11:58:21] [INFO] Loading image: UI/button_back.png
+[11:58:21] [INFO] Loading image: UI/button_back_hover.png
+[11:58:21] [INFO] Loading image: placeholder/placeholder.jpg
+[11:58:21] [INFO] Changing scene to 'menu'
+[11:58:21] [INFO] Running the Game Loop ...
+[11:58:21] [INFO] Entering menu scene
+[11:58:21] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:58:22] [INFO] Changing scene to 'setting'
+[11:58:22] [INFO] Entering setting scene
+[11:58:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:58:26] [INFO] Changing scene to 'setting'
+[11:58:26] [INFO] Changing scene to 'menu'
+[11:58:26] [INFO] Entering menu scene
+[11:58:26] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:58:38] [INFO] Initializing SceneManager
+[11:58:39] [INFO] Initializing Engine
+[11:58:39] [INFO] Loading image: backgrounds/background1.png
+[11:58:39] [INFO] Loading image: UI/button_play.png
+[11:58:39] [INFO] Loading image: UI/button_play_hover.png
+[11:58:39] [INFO] Loading image: UI/button_setting.png
+[11:58:39] [INFO] Loading image: UI/button_setting_hover.png
+[11:58:39] [INFO] Loading maps
+[11:58:39] [INFO] Loading enemy trainers
+[11:58:39] [INFO] Loading image: character/ow1.png
+[11:58:39] [INFO] Loading image: exclamation.png
+[11:58:39] [INFO] Loading Player
+[11:58:39] [INFO] Loading bag
+[11:58:39] [INFO] Loading image: ingame_ui/options1.png
+[11:58:39] [INFO] Loading image: UI/button_back.png
+[11:58:39] [INFO] Loading image: UI/button_back_hover.png
+[11:58:39] [INFO] Loading image: placeholder/placeholder.jpg
+[11:58:39] [INFO] Changing scene to 'menu'
+[11:58:39] [INFO] Running the Game Loop ...
+[11:58:39] [INFO] Entering menu scene
+[11:58:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:58:39] [INFO] Changing scene to 'setting'
+[11:58:39] [INFO] Entering setting scene
+[11:58:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[11:59:11] [INFO] Changing scene to 'setting'
+[11:59:11] [INFO] Changing scene to 'menu'
+[11:59:11] [INFO] Entering menu scene
+[11:59:11] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:01:33] [INFO] Initializing SceneManager
+[12:01:33] [INFO] Initializing Engine
+[12:01:34] [INFO] Loading image: backgrounds/background1.png
+[12:01:34] [INFO] Loading image: UI/button_play.png
+[12:01:34] [INFO] Loading image: UI/button_play_hover.png
+[12:01:34] [INFO] Loading image: UI/button_setting.png
+[12:01:34] [INFO] Loading image: UI/button_setting_hover.png
+[12:01:34] [INFO] Loading maps
+[12:01:34] [INFO] Loading enemy trainers
+[12:01:34] [INFO] Loading image: character/ow1.png
+[12:01:34] [INFO] Loading image: exclamation.png
+[12:01:34] [INFO] Loading Player
+[12:01:34] [INFO] Loading bag
+[12:01:34] [INFO] Loading image: ingame_ui/options1.png
+[12:01:34] [INFO] Loading image: UI/button_back.png
+[12:01:34] [INFO] Loading image: UI/button_back_hover.png
+[12:01:34] [INFO] Loading image: placeholder/placeholder.jpg
+[12:01:34] [INFO] Changing scene to 'menu'
+[12:01:34] [INFO] Running the Game Loop ...
+[12:01:34] [INFO] Entering menu scene
+[12:01:34] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:01:34] [INFO] Changing scene to 'game'
+[12:01:34] [INFO] Entering game scene
+[12:01:34] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:02:47] [INFO] Initializing SceneManager
+[12:02:48] [INFO] Initializing Engine
+[12:02:48] [INFO] Loading image: backgrounds/background1.png
+[12:02:48] [INFO] Loading image: UI/button_play.png
+[12:02:48] [INFO] Loading image: UI/button_play_hover.png
+[12:02:48] [INFO] Loading image: UI/button_setting.png
+[12:02:48] [INFO] Loading image: UI/button_setting_hover.png
+[12:02:48] [INFO] Loading maps
+[12:02:48] [INFO] Loading enemy trainers
+[12:02:48] [INFO] Loading image: character/ow1.png
+[12:02:48] [INFO] Loading image: exclamation.png
+[12:02:48] [INFO] Loading Player
+[12:02:48] [INFO] Loading bag
+[12:02:48] [INFO] Loading image: ingame_ui/options1.png
+[12:02:48] [INFO] Loading image: UI/button_back.png
+[12:02:48] [INFO] Loading image: UI/button_back_hover.png
+[12:02:48] [INFO] Loading image: placeholder/placeholder.jpg
+[12:02:48] [INFO] Changing scene to 'menu'
+[12:02:48] [INFO] Running the Game Loop ...
+[12:02:48] [INFO] Entering menu scene
+[12:02:48] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:02:49] [INFO] Changing scene to 'game'
+[12:02:49] [INFO] Entering game scene
+[12:02:49] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:10:39] [INFO] Initializing SceneManager
+[12:10:40] [INFO] Initializing Engine
+[12:10:40] [INFO] Loading image: backgrounds/background1.png
+[12:10:40] [INFO] Loading image: UI/button_play.png
+[12:10:40] [INFO] Loading image: UI/button_play_hover.png
+[12:10:40] [INFO] Loading image: UI/button_setting.png
+[12:10:40] [INFO] Loading image: UI/button_setting_hover.png
+[12:11:02] [INFO] Initializing SceneManager
+[12:11:02] [INFO] Initializing Engine
+[12:11:03] [INFO] Loading image: backgrounds/background1.png
+[12:11:03] [INFO] Loading image: UI/button_play.png
+[12:11:03] [INFO] Loading image: UI/button_play_hover.png
+[12:11:03] [INFO] Loading image: UI/button_setting.png
+[12:11:03] [INFO] Loading image: UI/button_setting_hover.png
+[12:11:03] [INFO] Loading maps
+[12:11:03] [INFO] Loading enemy trainers
+[12:11:03] [INFO] Loading image: character/ow1.png
+[12:11:03] [INFO] Loading image: exclamation.png
+[12:11:03] [INFO] Loading Player
+[12:11:03] [INFO] Loading bag
+[12:11:03] [INFO] Loading image: ingame_ui/options1.png
+[12:11:03] [INFO] Loading image: UI/button_back.png
+[12:11:03] [INFO] Loading image: UI/button_back_hover.png
+[12:11:03] [INFO] Loading image: placeholder/placeholder.jpg
+[12:11:03] [INFO] Changing scene to 'menu'
+[12:11:03] [INFO] Running the Game Loop ...
+[12:11:03] [INFO] Entering menu scene
+[12:11:03] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:11:04] [INFO] Changing scene to 'game'
+[12:11:04] [INFO] Entering game scene
+[12:11:04] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:11:54] [INFO] Initializing SceneManager
+[12:11:55] [INFO] Initializing Engine
+[12:11:55] [INFO] Loading image: backgrounds/background1.png
+[12:11:55] [INFO] Loading image: UI/button_play.png
+[12:11:55] [INFO] Loading image: UI/button_play_hover.png
+[12:11:55] [INFO] Loading image: UI/button_setting.png
+[12:11:55] [INFO] Loading image: UI/button_setting_hover.png
+[12:11:55] [INFO] Loading maps
+[12:11:55] [INFO] Loading enemy trainers
+[12:11:55] [INFO] Loading image: character/ow1.png
+[12:11:55] [INFO] Loading image: exclamation.png
+[12:11:55] [INFO] Loading Player
+[12:11:55] [INFO] Loading bag
+[12:11:55] [INFO] Loading image: ingame_ui/options1.png
+[12:11:55] [INFO] Loading image: UI/button_back.png
+[12:11:55] [INFO] Loading image: UI/button_back_hover.png
+[12:11:55] [INFO] Loading image: placeholder/placeholder.jpg
+[12:11:55] [INFO] Changing scene to 'menu'
+[12:11:55] [INFO] Running the Game Loop ...
+[12:11:55] [INFO] Entering menu scene
+[12:11:55] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:11:56] [INFO] Changing scene to 'game'
+[12:11:56] [INFO] Entering game scene
+[12:11:56] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:14:13] [INFO] Initializing SceneManager
+[12:14:14] [INFO] Initializing Engine
+[12:14:14] [INFO] Loading image: backgrounds/background1.png
+[12:14:14] [INFO] Loading image: UI/button_play.png
+[12:14:14] [INFO] Loading image: UI/button_play_hover.png
+[12:14:14] [INFO] Loading image: UI/button_setting.png
+[12:14:14] [INFO] Loading image: UI/button_setting_hover.png
+[12:14:14] [INFO] Loading maps
+[12:14:14] [INFO] Loading enemy trainers
+[12:14:14] [INFO] Loading image: character/ow1.png
+[12:14:14] [INFO] Loading image: exclamation.png
+[12:14:14] [INFO] Loading Player
+[12:14:14] [INFO] Loading bag
+[12:14:14] [INFO] Loading image: ingame_ui/options1.png
+[12:14:14] [INFO] Loading image: UI/button_back.png
+[12:14:14] [INFO] Loading image: UI/button_back_hover.png
+[12:14:14] [INFO] Loading image: placeholder/placeholder.jpg
+[12:14:14] [INFO] Changing scene to 'menu'
+[12:14:14] [INFO] Running the Game Loop ...
+[12:14:14] [INFO] Entering menu scene
+[12:14:14] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:15] [INFO] Changing scene to 'game'
+[12:14:15] [INFO] Entering game scene
+[12:14:15] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:14:23] [INFO] Initializing SceneManager
+[12:14:23] [INFO] Initializing Engine
+[12:14:23] [INFO] Loading image: backgrounds/background1.png
+[12:14:23] [INFO] Loading image: UI/button_play.png
+[12:14:23] [INFO] Loading image: UI/button_play_hover.png
+[12:14:23] [INFO] Loading image: UI/button_setting.png
+[12:14:23] [INFO] Loading image: UI/button_setting_hover.png
+[12:14:23] [INFO] Loading maps
+[12:14:24] [INFO] Loading enemy trainers
+[12:14:24] [INFO] Loading image: character/ow1.png
+[12:14:24] [INFO] Loading image: exclamation.png
+[12:14:24] [INFO] Loading Player
+[12:14:24] [INFO] Loading bag
+[12:14:24] [INFO] Loading image: ingame_ui/options1.png
+[12:14:24] [INFO] Loading image: UI/button_back.png
+[12:14:24] [INFO] Loading image: UI/button_back_hover.png
+[12:14:24] [INFO] Loading image: placeholder/placeholder.jpg
+[12:14:24] [INFO] Changing scene to 'menu'
+[12:14:24] [INFO] Running the Game Loop ...
+[12:14:24] [INFO] Entering menu scene
+[12:14:24] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:25] [INFO] Changing scene to 'setting'
+[12:14:25] [INFO] Entering setting scene
+[12:14:25] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:28] [INFO] Changing scene to 'setting'
+[12:14:28] [INFO] Changing scene to 'menu'
+[12:14:28] [INFO] Entering menu scene
+[12:14:28] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:29] [INFO] Changing scene to 'setting'
+[12:14:29] [INFO] Entering setting scene
+[12:14:29] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:31] [INFO] Changing scene to 'setting'
+[12:14:31] [INFO] Changing scene to 'menu'
+[12:14:31] [INFO] Entering menu scene
+[12:14:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:31] [INFO] Changing scene to 'setting'
+[12:14:31] [INFO] Entering setting scene
+[12:14:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:33] [INFO] Changing scene to 'setting'
+[12:14:33] [INFO] Changing scene to 'menu'
+[12:14:33] [INFO] Entering menu scene
+[12:14:33] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:14:44] [INFO] Changing scene to 'game'
+[12:14:44] [INFO] Entering game scene
+[12:14:44] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:23:56] [INFO] Initializing SceneManager
+[12:23:57] [INFO] Initializing Engine
+[12:23:57] [INFO] Loading image: backgrounds/background1.png
+[12:23:57] [INFO] Loading image: UI/button_play.png
+[12:23:57] [INFO] Loading image: UI/button_play_hover.png
+[12:23:57] [INFO] Loading image: UI/button_setting.png
+[12:23:57] [INFO] Loading image: UI/button_setting_hover.png
+[12:23:57] [INFO] Loading maps
+[12:23:57] [INFO] Loading enemy trainers
+[12:23:57] [INFO] Loading image: character/ow1.png
+[12:23:57] [INFO] Loading image: exclamation.png
+[12:23:57] [INFO] Loading Player
+[12:23:57] [INFO] Loading bag
+[12:23:57] [INFO] Loading image: ingame_ui/options1.png
+[12:23:57] [INFO] Loading image: UI/button_back.png
+[12:23:57] [INFO] Loading image: UI/button_back_hover.png
+[12:23:57] [INFO] Loading image: placeholder/placeholder.jpg
+[12:23:57] [INFO] Changing scene to 'menu'
+[12:23:57] [INFO] Running the Game Loop ...
+[12:23:57] [INFO] Entering menu scene
+[12:23:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:23:59] [INFO] Changing scene to 'game'
+[12:23:59] [INFO] Entering game scene
+[12:23:59] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:25:53] [INFO] Initializing SceneManager
+[12:25:53] [INFO] Initializing Engine
+[12:25:53] [INFO] Loading image: backgrounds/background1.png
+[12:25:53] [INFO] Loading image: UI/button_play.png
+[12:25:53] [INFO] Loading image: UI/button_play_hover.png
+[12:25:53] [INFO] Loading image: UI/button_setting.png
+[12:25:53] [INFO] Loading image: UI/button_setting_hover.png
+[12:25:53] [INFO] Loading maps
+[12:25:53] [INFO] Loading enemy trainers
+[12:25:53] [INFO] Loading image: character/ow1.png
+[12:25:53] [INFO] Loading image: exclamation.png
+[12:25:53] [INFO] Loading Player
+[12:25:53] [INFO] Loading bag
+[12:25:53] [INFO] Loading image: ingame_ui/options1.png
+[12:25:53] [INFO] Loading image: UI/button_back.png
+[12:25:53] [INFO] Loading image: UI/button_back_hover.png
+[12:25:53] [INFO] Loading image: placeholder/placeholder.jpg
+[12:25:53] [INFO] Changing scene to 'menu'
+[12:25:53] [INFO] Running the Game Loop ...
+[12:25:53] [INFO] Entering menu scene
+[12:25:53] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:25:54] [INFO] Changing scene to 'game'
+[12:25:54] [INFO] Entering game scene
+[12:25:54] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:27:38] [INFO] Initializing SceneManager
+[12:27:39] [INFO] Initializing Engine
+[12:27:39] [INFO] Loading image: backgrounds/background1.png
+[12:27:39] [INFO] Loading image: UI/button_play.png
+[12:27:39] [INFO] Loading image: UI/button_play_hover.png
+[12:27:39] [INFO] Loading image: UI/button_setting.png
+[12:27:39] [INFO] Loading image: UI/button_setting_hover.png
+[12:27:39] [INFO] Loading maps
+[12:27:39] [INFO] Loading enemy trainers
+[12:27:39] [INFO] Loading image: character/ow1.png
+[12:27:39] [INFO] Loading image: exclamation.png
+[12:27:39] [INFO] Loading Player
+[12:27:39] [INFO] Loading bag
+[12:27:39] [INFO] Loading image: ingame_ui/options1.png
+[12:27:39] [INFO] Loading image: UI/button_back.png
+[12:27:39] [INFO] Loading image: UI/button_back_hover.png
+[12:27:39] [INFO] Loading image: placeholder/placeholder.jpg
+[12:27:39] [INFO] Changing scene to 'menu'
+[12:27:39] [INFO] Running the Game Loop ...
+[12:27:39] [INFO] Entering menu scene
+[12:27:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:27:39] [INFO] Changing scene to 'game'
+[12:27:39] [INFO] Entering game scene
+[12:27:39] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:28:08] [INFO] Initializing SceneManager
+[12:28:08] [INFO] Initializing Engine
+[12:28:09] [INFO] Loading image: backgrounds/background1.png
+[12:28:09] [INFO] Loading image: UI/button_play.png
+[12:28:09] [INFO] Loading image: UI/button_play_hover.png
+[12:28:09] [INFO] Loading image: UI/button_setting.png
+[12:28:09] [INFO] Loading image: UI/button_setting_hover.png
+[12:28:09] [INFO] Loading maps
+[12:28:09] [INFO] Loading enemy trainers
+[12:28:09] [INFO] Loading image: character/ow1.png
+[12:28:09] [INFO] Loading image: exclamation.png
+[12:28:09] [INFO] Loading Player
+[12:28:09] [INFO] Loading bag
+[12:28:09] [INFO] Loading image: ingame_ui/options1.png
+[12:28:09] [INFO] Loading image: UI/button_back.png
+[12:28:09] [INFO] Loading image: UI/button_back_hover.png
+[12:28:09] [INFO] Loading image: placeholder/placeholder.jpg
+[12:28:09] [INFO] Changing scene to 'menu'
+[12:28:09] [INFO] Running the Game Loop ...
+[12:28:09] [INFO] Entering menu scene
+[12:28:09] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:28:09] [INFO] Changing scene to 'game'
+[12:28:09] [INFO] Entering game scene
+[12:28:09] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:28:53] [INFO] Initializing SceneManager
+[12:28:54] [INFO] Initializing Engine
+[12:28:54] [INFO] Loading image: backgrounds/background1.png
+[12:28:54] [INFO] Loading image: UI/button_play.png
+[12:28:54] [INFO] Loading image: UI/button_play_hover.png
+[12:28:54] [INFO] Loading image: UI/button_setting.png
+[12:28:54] [INFO] Loading image: UI/button_setting_hover.png
+[12:28:54] [INFO] Loading maps
+[12:28:54] [INFO] Loading enemy trainers
+[12:28:54] [INFO] Loading image: character/ow1.png
+[12:28:54] [INFO] Loading image: exclamation.png
+[12:28:54] [INFO] Loading Player
+[12:28:54] [INFO] Loading bag
+[12:28:54] [INFO] Loading image: ingame_ui/options1.png
+[12:28:54] [INFO] Loading image: UI/button_back.png
+[12:28:54] [INFO] Loading image: UI/button_back_hover.png
+[12:28:54] [INFO] Loading image: placeholder/placeholder.jpg
+[12:28:54] [INFO] Changing scene to 'menu'
+[12:28:54] [INFO] Running the Game Loop ...
+[12:28:54] [INFO] Entering menu scene
+[12:28:54] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:29:10] [INFO] Changing scene to 'game'
+[12:29:10] [INFO] Entering game scene
+[12:29:10] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:30:32] [INFO] Initializing SceneManager
+[12:30:33] [INFO] Initializing Engine
+[12:30:33] [INFO] Loading image: backgrounds/background1.png
+[12:30:33] [INFO] Loading image: UI/button_play.png
+[12:30:33] [INFO] Loading image: UI/button_play_hover.png
+[12:30:33] [INFO] Loading image: UI/button_setting.png
+[12:30:33] [INFO] Loading image: UI/button_setting_hover.png
+[12:30:33] [INFO] Loading maps
+[12:30:33] [INFO] Loading enemy trainers
+[12:30:33] [INFO] Loading image: character/ow1.png
+[12:30:33] [INFO] Loading image: exclamation.png
+[12:30:33] [INFO] Loading Player
+[12:30:33] [INFO] Loading bag
+[12:30:33] [INFO] Loading image: ingame_ui/options1.png
+[12:30:33] [INFO] Loading image: UI/button_back.png
+[12:30:33] [INFO] Loading image: UI/button_back_hover.png
+[12:30:33] [INFO] Loading image: placeholder/placeholder.jpg
+[12:30:33] [INFO] Changing scene to 'menu'
+[12:30:33] [INFO] Running the Game Loop ...
+[12:30:33] [INFO] Entering menu scene
+[12:30:33] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:30:34] [INFO] Changing scene to 'setting'
+[12:30:34] [INFO] Entering setting scene
+[12:30:34] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:30:35] [INFO] Changing scene to 'setting'
+[12:30:35] [INFO] Changing scene to 'menu'
+[12:30:35] [INFO] Entering menu scene
+[12:30:35] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:30:36] [INFO] Changing scene to 'setting'
+[12:30:36] [INFO] Entering setting scene
+[12:30:36] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:30:37] [INFO] Changing scene to 'setting'
+[12:30:37] [INFO] Changing scene to 'menu'
+[12:30:37] [INFO] Entering menu scene
+[12:30:37] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:31:13] [INFO] Changing scene to 'game'
+[12:31:13] [INFO] Entering game scene
+[12:31:13] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:36:08] [INFO] Initializing SceneManager
+[12:36:08] [INFO] Initializing Engine
+[12:36:08] [INFO] Loading image: backgrounds/background1.png
+[12:36:08] [INFO] Loading image: UI/button_play.png
+[12:36:08] [INFO] Loading image: UI/button_play_hover.png
+[12:36:08] [INFO] Loading image: UI/button_setting.png
+[12:36:08] [INFO] Loading image: UI/button_setting_hover.png
+[12:36:08] [INFO] Loading maps
+[12:36:09] [INFO] Loading enemy trainers
+[12:36:09] [INFO] Loading image: character/ow1.png
+[12:36:09] [INFO] Loading image: exclamation.png
+[12:36:09] [INFO] Loading Player
+[12:36:09] [INFO] Loading bag
+[12:36:09] [INFO] Loading image: ingame_ui/options1.png
+[12:36:09] [INFO] Loading image: UI/button_back.png
+[12:36:09] [INFO] Loading image: UI/button_back_hover.png
+[12:36:09] [INFO] Loading image: placeholder/placeholder.jpg
+[12:36:09] [INFO] Changing scene to 'menu'
+[12:36:09] [INFO] Running the Game Loop ...
+[12:36:09] [INFO] Entering menu scene
+[12:36:09] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:36:09] [INFO] Changing scene to 'game'
+[12:36:09] [INFO] Entering game scene
+[12:36:09] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:36:30] [INFO] Initializing SceneManager
+[12:36:30] [INFO] Initializing Engine
+[12:36:31] [INFO] Loading image: backgrounds/background1.png
+[12:36:31] [INFO] Loading image: UI/button_play.png
+[12:36:31] [INFO] Loading image: UI/button_play_hover.png
+[12:36:31] [INFO] Loading image: UI/button_setting.png
+[12:36:31] [INFO] Loading image: UI/button_setting_hover.png
+[12:36:31] [INFO] Loading maps
+[12:36:31] [INFO] Loading enemy trainers
+[12:36:31] [INFO] Loading image: character/ow1.png
+[12:36:31] [INFO] Loading image: exclamation.png
+[12:36:31] [INFO] Loading Player
+[12:36:31] [INFO] Loading bag
+[12:36:31] [INFO] Loading image: ingame_ui/options1.png
+[12:36:31] [INFO] Loading image: UI/button_back.png
+[12:36:31] [INFO] Loading image: UI/button_back_hover.png
+[12:36:31] [INFO] Loading image: placeholder/placeholder.jpg
+[12:36:31] [INFO] Changing scene to 'menu'
+[12:36:31] [INFO] Running the Game Loop ...
+[12:36:31] [INFO] Entering menu scene
+[12:36:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:36:31] [INFO] Changing scene to 'game'
+[12:36:31] [INFO] Entering game scene
+[12:36:31] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[12:38:05] [INFO] Initializing SceneManager
+[12:38:06] [INFO] Initializing Engine
+[12:38:06] [INFO] Loading image: backgrounds/background1.png
+[12:38:06] [INFO] Loading image: UI/button_play.png
+[12:38:06] [INFO] Loading image: UI/button_play_hover.png
+[12:38:06] [INFO] Loading image: UI/button_setting.png
+[12:38:06] [INFO] Loading image: UI/button_setting_hover.png
+[12:38:06] [INFO] Loading maps
+[12:38:06] [INFO] Loading enemy trainers
+[12:38:06] [INFO] Loading image: character/ow1.png
+[12:38:06] [INFO] Loading image: exclamation.png
+[12:38:06] [INFO] Loading Player
+[12:38:06] [INFO] Loading bag
+[12:38:06] [INFO] Loading image: ingame_ui/options1.png
+[12:38:06] [INFO] Loading image: UI/button_back.png
+[12:38:06] [INFO] Loading image: UI/button_back_hover.png
+[12:38:06] [INFO] Loading image: placeholder/placeholder.jpg
+[12:38:06] [INFO] Changing scene to 'menu'
+[12:38:06] [INFO] Running the Game Loop ...
+[12:38:06] [INFO] Entering menu scene
+[12:38:06] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:07] [INFO] Changing scene to 'setting'
+[12:38:07] [INFO] Entering setting scene
+[12:38:07] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:22] [INFO] Changing scene to 'setting'
+[12:38:22] [INFO] Changing scene to 'menu'
+[12:38:22] [INFO] Entering menu scene
+[12:38:22] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:23] [INFO] Changing scene to 'setting'
+[12:38:23] [INFO] Entering setting scene
+[12:38:23] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:30] [INFO] Changing scene to 'setting'
+[12:38:30] [INFO] Changing scene to 'menu'
+[12:38:30] [INFO] Entering menu scene
+[12:38:30] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:31] [INFO] Changing scene to 'setting'
+[12:38:31] [INFO] Entering setting scene
+[12:38:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:32] [INFO] Changing scene to 'setting'
+[12:38:32] [INFO] Entering setting scene
+[12:38:32] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:32] [INFO] Changing scene to 'setting'
+[12:38:32] [INFO] Changing scene to 'menu'
+[12:38:32] [INFO] Entering menu scene
+[12:38:32] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:32] [INFO] Changing scene to 'setting'
+[12:38:32] [INFO] Entering setting scene
+[12:38:32] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:33] [INFO] Changing scene to 'setting'
+[12:38:33] [INFO] Changing scene to 'menu'
+[12:38:33] [INFO] Entering menu scene
+[12:38:33] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:33] [INFO] Changing scene to 'setting'
+[12:38:33] [INFO] Entering setting scene
+[12:38:33] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:38:34] [INFO] Changing scene to 'setting'
+[12:38:34] [INFO] Changing scene to 'menu'
+[12:38:34] [INFO] Entering menu scene
+[12:38:34] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:34] [INFO] Initializing SceneManager
+[12:39:35] [INFO] Initializing Engine
+[12:39:35] [INFO] Loading image: backgrounds/background1.png
+[12:39:35] [INFO] Loading image: UI/button_play.png
+[12:39:35] [INFO] Loading image: UI/button_play_hover.png
+[12:39:35] [INFO] Loading image: UI/button_setting.png
+[12:39:35] [INFO] Loading image: UI/button_setting_hover.png
+[12:39:35] [INFO] Loading maps
+[12:39:35] [INFO] Loading enemy trainers
+[12:39:35] [INFO] Loading image: character/ow1.png
+[12:39:35] [INFO] Loading image: exclamation.png
+[12:39:35] [INFO] Loading Player
+[12:39:35] [INFO] Loading bag
+[12:39:35] [INFO] Loading image: ingame_ui/options1.png
+[12:39:35] [INFO] Loading image: UI/button_back.png
+[12:39:35] [INFO] Loading image: UI/button_back_hover.png
+[12:39:35] [INFO] Loading image: placeholder/placeholder.jpg
+[12:39:35] [INFO] Changing scene to 'menu'
+[12:39:35] [INFO] Running the Game Loop ...
+[12:39:35] [INFO] Entering menu scene
+[12:39:35] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:36] [INFO] Changing scene to 'setting'
+[12:39:36] [INFO] Entering setting scene
+[12:39:36] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:38] [INFO] Changing scene to 'setting'
+[12:39:38] [INFO] Changing scene to 'menu'
+[12:39:38] [INFO] Entering menu scene
+[12:39:38] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:39] [INFO] Changing scene to 'setting'
+[12:39:39] [INFO] Entering setting scene
+[12:39:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:40] [INFO] Changing scene to 'setting'
+[12:39:40] [INFO] Changing scene to 'menu'
+[12:39:40] [INFO] Entering menu scene
+[12:39:40] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:40] [INFO] Changing scene to 'setting'
+[12:39:41] [INFO] Entering setting scene
+[12:39:41] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[12:39:42] [INFO] Changing scene to 'setting'
+[12:39:42] [INFO] Changing scene to 'menu'
+[12:39:42] [INFO] Entering menu scene
+[12:39:42] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:05:45] [INFO] Initializing SceneManager
+[14:05:45] [INFO] Initializing Engine
+[14:05:45] [INFO] Loading image: backgrounds/background1.png
+[14:05:45] [INFO] Loading image: UI/button_play.png
+[14:05:45] [INFO] Loading image: UI/button_play_hover.png
+[14:05:45] [INFO] Loading image: UI/button_setting.png
+[14:05:45] [INFO] Loading image: UI/button_setting_hover.png
+[14:05:45] [INFO] Loading maps
+[14:05:45] [INFO] Loading enemy trainers
+[14:05:45] [INFO] Loading image: character/ow1.png
+[14:05:45] [INFO] Loading image: exclamation.png
+[14:05:45] [INFO] Loading Player
+[14:05:45] [INFO] Loading bag
+[14:05:45] [INFO] Loading image: ingame_ui/options1.png
+[14:05:45] [INFO] Loading image: UI/button_back.png
+[14:05:45] [INFO] Loading image: UI/button_back_hover.png
+[14:05:45] [INFO] Loading image: placeholder/placeholder.jpg
+[14:05:46] [INFO] Changing scene to 'menu'
+[14:05:46] [INFO] Running the Game Loop ...
+[14:05:46] [INFO] Entering menu scene
+[14:05:46] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:06:17] [INFO] Changing scene to 'setting'
+[14:06:17] [INFO] Entering setting scene
+[14:06:17] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:06:57] [INFO] Changing scene to 'setting'
+[14:06:57] [INFO] Changing scene to 'menu'
+[14:06:57] [INFO] Entering menu scene
+[14:06:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:07:13] [INFO] Changing scene to 'game'
+[14:07:13] [INFO] Entering game scene
+[14:07:13] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[15:39:11] [INFO] Initializing SceneManager
+[15:39:12] [INFO] Initializing Engine
+[15:39:52] [INFO] Loading image: backgrounds/background1.png
+[15:39:52] [INFO] Loading image: UI/button_play.png
+[15:39:52] [INFO] Loading image: UI/button_play_hover.png
+[15:39:52] [INFO] Loading image: UI/button_setting.png
+[15:39:52] [INFO] Loading image: UI/button_setting_hover.png
+[15:39:52] [INFO] Loading maps
+[15:39:52] [INFO] Loading enemy trainers
+[15:39:52] [INFO] Loading image: character/ow1.png
+[15:39:52] [INFO] Loading image: exclamation.png
+[15:39:52] [INFO] Loading Player
+[15:39:52] [INFO] Loading bag
+[15:39:52] [INFO] Loading image: ingame_ui/options1.png
+[15:39:52] [INFO] Loading image: UI/button_back.png
+[15:39:52] [INFO] Loading image: UI/button_back_hover.png
+[15:39:52] [INFO] Loading image: placeholder/placeholder.jpg
+[15:39:52] [INFO] Changing scene to 'menu'
+[15:39:52] [INFO] Running the Game Loop ...
+[15:39:52] [INFO] Entering menu scene
+[15:39:52] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[15:43:39] [INFO] Changing scene to 'setting'
+[15:43:39] [INFO] Entering setting scene
+[15:43:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[15:46:14] [INFO] Changing scene to 'setting'
+[15:46:14] [INFO] Changing scene to 'menu'
+[15:46:14] [INFO] Entering menu scene
+[15:46:14] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[15:50:29] [INFO] Initializing SceneManager
+[15:50:30] [INFO] Initializing Engine
+[15:51:10] [INFO] Loading image: backgrounds/background1.png
+[15:51:10] [INFO] Loading image: UI/button_play.png
+[15:51:10] [INFO] Loading image: UI/button_play_hover.png
+[15:51:10] [INFO] Loading image: UI/button_setting.png
+[15:51:10] [INFO] Loading image: UI/button_setting_hover.png
+[15:51:10] [INFO] Loading maps
+[15:51:10] [INFO] Loading enemy trainers
+[15:51:10] [INFO] Loading image: character/ow1.png
+[15:51:10] [INFO] Loading image: exclamation.png
+[15:51:10] [INFO] Loading Player
+[15:51:10] [INFO] Loading bag
+[15:51:10] [INFO] Loading image: ingame_ui/options1.png
+[15:51:10] [INFO] Loading image: UI/button_back.png
+[15:51:10] [INFO] Loading image: UI/button_back_hover.png
+[15:51:10] [INFO] Loading image: placeholder/placeholder.jpg
+[15:51:10] [INFO] Changing scene to 'menu'
+[15:51:10] [INFO] Running the Game Loop ...
+[15:51:10] [INFO] Entering menu scene
+[15:51:10] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[16:00:55] [INFO] Initializing SceneManager
+[16:00:56] [INFO] Initializing Engine
+[16:01:36] [INFO] Loading image: backgrounds/background1.png
+[16:01:36] [INFO] Loading image: UI/button_play.png
+[16:01:36] [INFO] Loading image: UI/button_play_hover.png
+[16:01:36] [INFO] Loading image: UI/button_setting.png
+[16:01:36] [INFO] Loading image: UI/button_setting_hover.png
+[16:01:36] [INFO] Loading maps
+[16:01:36] [INFO] Loading enemy trainers
+[16:01:36] [INFO] Loading image: character/ow1.png
+[16:01:36] [INFO] Loading image: exclamation.png
+[16:01:36] [INFO] Loading Player
+[16:01:36] [INFO] Loading bag
+[16:01:36] [INFO] Loading image: ingame_ui/options1.png
+[16:01:36] [INFO] Loading image: UI/button_back.png
+[16:01:36] [INFO] Loading image: UI/button_back_hover.png
+[16:01:36] [INFO] Loading image: placeholder/placeholder.jpg
+[16:01:36] [INFO] Changing scene to 'menu'
+[16:01:36] [INFO] Running the Game Loop ...
+[16:01:36] [INFO] Entering menu scene
+[16:01:36] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[16:01:38] [INFO] Changing scene to 'game'
+[16:01:38] [INFO] Entering game scene
+[16:01:38] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:21:11] [INFO] Initializing SceneManager
+[13:21:11] [INFO] Initializing Engine
+[13:21:12] [INFO] Loading image: backgrounds/background1.png
+[13:21:12] [INFO] Loading image: UI/button_play.png
+[13:21:12] [INFO] Loading image: UI/button_play_hover.png
+[13:21:12] [INFO] Loading image: UI/button_setting.png
+[13:21:12] [INFO] Loading image: UI/button_setting_hover.png
+[13:21:12] [INFO] Loading maps
+[13:21:12] [INFO] Loading enemy trainers
+[13:21:12] [INFO] Loading image: character/ow1.png
+[13:21:12] [INFO] Loading image: exclamation.png
+[13:21:12] [INFO] Loading Player
+[13:21:12] [INFO] Loading bag
+[13:21:12] [INFO] Loading image: ingame_ui/options1.png
+[13:21:12] [INFO] Loading image: UI/button_back.png
+[13:21:12] [INFO] Loading image: UI/button_back_hover.png
+[13:21:12] [INFO] Loading image: placeholder/placeholder.jpg
+[13:21:12] [INFO] Changing scene to 'menu'
+[13:21:12] [INFO] Running the Game Loop ...
+[13:21:12] [INFO] Entering menu scene
+[13:21:12] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:21:17] [INFO] Changing scene to 'game'
+[13:21:17] [INFO] Entering game scene
+[13:21:17] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:43:10] [INFO] Initializing SceneManager
+[13:43:11] [INFO] Initializing Engine
+[13:43:11] [INFO] Loading image: backgrounds/background1.png
+[13:43:11] [INFO] Loading image: UI/button_play.png
+[13:43:11] [INFO] Loading image: UI/button_play_hover.png
+[13:43:11] [INFO] Loading image: UI/button_setting.png
+[13:43:11] [INFO] Loading image: UI/button_setting_hover.png
+[13:43:11] [INFO] Loading maps
+[13:43:11] [INFO] Loading enemy trainers
+[13:43:11] [INFO] Loading image: character/ow1.png
+[13:43:11] [INFO] Loading image: exclamation.png
+[13:43:11] [INFO] Loading Player
+[13:43:11] [INFO] Loading bag
+[13:43:11] [INFO] Loading image: ingame_ui/options1.png
+[13:43:11] [INFO] Loading image: UI/backpack.png
+[13:43:44] [INFO] Initializing SceneManager
+[13:43:44] [INFO] Initializing Engine
+[13:43:44] [INFO] Loading image: backgrounds/background1.png
+[13:43:44] [INFO] Loading image: UI/button_play.png
+[13:43:44] [INFO] Loading image: UI/button_play_hover.png
+[13:43:44] [INFO] Loading image: UI/button_setting.png
+[13:43:44] [INFO] Loading image: UI/button_setting_hover.png
+[13:43:44] [INFO] Loading maps
+[13:43:44] [INFO] Loading enemy trainers
+[13:43:44] [INFO] Loading image: character/ow1.png
+[13:43:44] [INFO] Loading image: exclamation.png
+[13:43:44] [INFO] Loading Player
+[13:43:44] [INFO] Loading bag
+[13:43:44] [INFO] Loading image: ingame_ui/options1.png
+[13:43:44] [INFO] Loading image: UI/button_backpack.png
+[13:43:44] [INFO] Loading image: UI/button_backpack_hover.png
+[13:43:44] [INFO] Loading image: UI/button_back.png
+[13:43:44] [INFO] Loading image: UI/button_back_hover.png
+[13:43:44] [INFO] Loading image: placeholder/placeholder.jpg
+[13:43:44] [INFO] Changing scene to 'menu'
+[13:43:44] [INFO] Running the Game Loop ...
+[13:43:44] [INFO] Entering menu scene
+[13:43:44] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:43:45] [INFO] Changing scene to 'game'
+[13:43:45] [INFO] Entering game scene
+[13:43:45] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:44:19] [INFO] Initializing SceneManager
+[13:44:20] [INFO] Initializing Engine
+[13:44:20] [INFO] Loading image: backgrounds/background1.png
+[13:44:20] [INFO] Loading image: UI/button_play.png
+[13:44:20] [INFO] Loading image: UI/button_play_hover.png
+[13:44:20] [INFO] Loading image: UI/button_setting.png
+[13:44:20] [INFO] Loading image: UI/button_setting_hover.png
+[13:44:20] [INFO] Loading maps
+[13:44:20] [INFO] Loading enemy trainers
+[13:44:20] [INFO] Loading image: character/ow1.png
+[13:44:20] [INFO] Loading image: exclamation.png
+[13:44:20] [INFO] Loading Player
+[13:44:20] [INFO] Loading bag
+[13:44:20] [INFO] Loading image: ingame_ui/options1.png
+[13:44:20] [INFO] Loading image: UI/button_backpack.png
+[13:44:20] [INFO] Loading image: UI/button_backpack_hover.png
+[13:44:20] [INFO] Loading image: UI/button_back.png
+[13:44:20] [INFO] Loading image: UI/button_back_hover.png
+[13:44:20] [INFO] Loading image: placeholder/placeholder.jpg
+[13:44:20] [INFO] Changing scene to 'menu'
+[13:44:20] [INFO] Running the Game Loop ...
+[13:44:20] [INFO] Entering menu scene
+[13:44:20] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:44:21] [INFO] Changing scene to 'game'
+[13:44:21] [INFO] Entering game scene
+[13:44:21] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:44:46] [INFO] Initializing SceneManager
+[13:44:47] [INFO] Initializing Engine
+[13:44:47] [INFO] Loading image: backgrounds/background1.png
+[13:44:47] [INFO] Loading image: UI/button_play.png
+[13:44:47] [INFO] Loading image: UI/button_play_hover.png
+[13:44:47] [INFO] Loading image: UI/button_setting.png
+[13:44:47] [INFO] Loading image: UI/button_setting_hover.png
+[13:44:47] [INFO] Loading maps
+[13:44:47] [INFO] Loading enemy trainers
+[13:44:47] [INFO] Loading image: character/ow1.png
+[13:44:47] [INFO] Loading image: exclamation.png
+[13:44:47] [INFO] Loading Player
+[13:44:47] [INFO] Loading bag
+[13:44:47] [INFO] Loading image: ingame_ui/options1.png
+[13:44:47] [INFO] Loading image: UI/button_backpack.png
+[13:44:47] [INFO] Loading image: UI/button_backpack_hover.png
+[13:44:47] [INFO] Loading image: UI/button_back.png
+[13:44:47] [INFO] Loading image: UI/button_back_hover.png
+[13:44:47] [INFO] Loading image: placeholder/placeholder.jpg
+[13:44:47] [INFO] Changing scene to 'menu'
+[13:44:47] [INFO] Running the Game Loop ...
+[13:44:47] [INFO] Entering menu scene
+[13:44:47] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:44:48] [INFO] Changing scene to 'game'
+[13:44:48] [INFO] Entering game scene
+[13:44:48] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:45:45] [INFO] Initializing SceneManager
+[13:45:45] [INFO] Initializing Engine
+[13:45:45] [INFO] Loading image: backgrounds/background1.png
+[13:45:45] [INFO] Loading image: UI/button_play.png
+[13:45:45] [INFO] Loading image: UI/button_play_hover.png
+[13:45:45] [INFO] Loading image: UI/button_setting.png
+[13:45:45] [INFO] Loading image: UI/button_setting_hover.png
+[13:45:45] [INFO] Loading maps
+[13:45:46] [INFO] Loading enemy trainers
+[13:45:46] [INFO] Loading image: character/ow1.png
+[13:45:46] [INFO] Loading image: exclamation.png
+[13:45:46] [INFO] Loading Player
+[13:45:46] [INFO] Loading bag
+[13:45:46] [INFO] Loading image: ingame_ui/options1.png
+[13:45:46] [INFO] Loading image: UI/button_backpack.png
+[13:45:46] [INFO] Loading image: UI/button_backpack_hover.png
+[13:45:46] [INFO] Loading image: UI/button_back.png
+[13:45:46] [INFO] Loading image: UI/button_back_hover.png
+[13:45:46] [INFO] Loading image: placeholder/placeholder.jpg
+[13:45:46] [INFO] Changing scene to 'menu'
+[13:45:46] [INFO] Running the Game Loop ...
+[13:45:46] [INFO] Entering menu scene
+[13:45:46] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:45:46] [INFO] Changing scene to 'game'
+[13:45:46] [INFO] Entering game scene
+[13:45:46] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:48:38] [INFO] Initializing SceneManager
+[13:48:38] [INFO] Initializing Engine
+[13:48:39] [INFO] Loading image: backgrounds/background1.png
+[13:48:39] [INFO] Loading image: UI/button_play.png
+[13:48:39] [INFO] Loading image: UI/button_play_hover.png
+[13:48:39] [INFO] Loading image: UI/button_setting.png
+[13:48:39] [INFO] Loading image: UI/button_setting_hover.png
+[13:48:39] [INFO] Loading maps
+[13:48:39] [INFO] Loading enemy trainers
+[13:48:39] [INFO] Loading image: character/ow1.png
+[13:48:39] [INFO] Loading image: exclamation.png
+[13:48:39] [INFO] Loading Player
+[13:48:39] [INFO] Loading bag
+[13:48:39] [INFO] Loading image: ingame_ui/options1.png
+[13:48:39] [INFO] Loading image: UI/button_backpack.png
+[13:48:39] [INFO] Loading image: UI/button_backpack_hover.png
+[13:48:39] [INFO] Loading image: UI/button_back.png
+[13:48:39] [INFO] Loading image: UI/button_back_hover.png
+[13:48:39] [INFO] Loading image: placeholder/placeholder.jpg
+[13:48:39] [INFO] Changing scene to 'menu'
+[13:48:39] [INFO] Running the Game Loop ...
+[13:48:39] [INFO] Entering menu scene
+[13:48:39] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:48:40] [INFO] Changing scene to 'game'
+[13:48:40] [INFO] Entering game scene
+[13:48:40] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:50:26] [INFO] Initializing SceneManager
+[13:50:26] [INFO] Initializing Engine
+[13:50:26] [INFO] Loading image: backgrounds/background1.png
+[13:50:26] [INFO] Loading image: UI/button_play.png
+[13:50:26] [INFO] Loading image: UI/button_play_hover.png
+[13:50:26] [INFO] Loading image: UI/button_setting.png
+[13:50:26] [INFO] Loading image: UI/button_setting_hover.png
+[13:50:26] [INFO] Loading maps
+[13:50:27] [INFO] Loading enemy trainers
+[13:50:27] [INFO] Loading image: character/ow1.png
+[13:50:27] [INFO] Loading image: exclamation.png
+[13:50:27] [INFO] Loading Player
+[13:50:27] [INFO] Loading bag
+[13:50:27] [INFO] Loading image: ingame_ui/options1.png
+[13:50:27] [INFO] Loading image: UI/button_backpack.png
+[13:50:27] [INFO] Loading image: UI/button_backpack_hover.png
+[13:50:27] [INFO] Loading image: UI/button_back.png
+[13:50:27] [INFO] Loading image: UI/button_back_hover.png
+[13:50:27] [INFO] Loading image: placeholder/placeholder.jpg
+[13:50:27] [INFO] Changing scene to 'menu'
+[13:50:27] [INFO] Running the Game Loop ...
+[13:50:27] [INFO] Entering menu scene
+[13:50:27] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:50:27] [INFO] Changing scene to 'game'
+[13:50:27] [INFO] Entering game scene
+[13:50:27] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:50:55] [INFO] Initializing SceneManager
+[13:50:55] [INFO] Initializing Engine
+[13:50:55] [INFO] Loading image: backgrounds/background1.png
+[13:50:55] [INFO] Loading image: UI/button_play.png
+[13:50:55] [INFO] Loading image: UI/button_play_hover.png
+[13:50:55] [INFO] Loading image: UI/button_setting.png
+[13:50:55] [INFO] Loading image: UI/button_setting_hover.png
+[13:50:55] [INFO] Loading maps
+[13:50:56] [INFO] Loading enemy trainers
+[13:50:56] [INFO] Loading image: character/ow1.png
+[13:50:56] [INFO] Loading image: exclamation.png
+[13:50:56] [INFO] Loading Player
+[13:50:56] [INFO] Loading bag
+[13:50:56] [INFO] Loading image: ingame_ui/options1.png
+[13:50:56] [INFO] Loading image: UI/button_backpack.png
+[13:50:56] [INFO] Loading image: UI/button_backpack_hover.png
+[13:50:56] [INFO] Loading image: UI/button_back.png
+[13:50:56] [INFO] Loading image: UI/button_back_hover.png
+[13:50:56] [INFO] Loading image: placeholder/placeholder.jpg
+[13:50:56] [INFO] Changing scene to 'menu'
+[13:50:56] [INFO] Running the Game Loop ...
+[13:50:56] [INFO] Entering menu scene
+[13:50:56] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:50:57] [INFO] Changing scene to 'game'
+[13:50:57] [INFO] Entering game scene
+[13:50:57] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:52:56] [INFO] Initializing SceneManager
+[13:52:57] [INFO] Initializing Engine
+[13:52:57] [INFO] Loading image: backgrounds/background1.png
+[13:52:57] [INFO] Loading image: UI/button_play.png
+[13:52:57] [INFO] Loading image: UI/button_play_hover.png
+[13:52:57] [INFO] Loading image: UI/button_setting.png
+[13:52:57] [INFO] Loading image: UI/button_setting_hover.png
+[13:52:57] [INFO] Loading maps
+[13:52:57] [INFO] Loading enemy trainers
+[13:52:57] [INFO] Loading image: character/ow1.png
+[13:52:57] [INFO] Loading image: exclamation.png
+[13:52:57] [INFO] Loading Player
+[13:52:57] [INFO] Loading bag
+[13:52:57] [INFO] Loading image: ingame_ui/options1.png
+[13:52:57] [INFO] Loading image: UI/button_backpack.png
+[13:52:57] [INFO] Loading image: UI/button_backpack_hover.png
+[13:52:57] [INFO] Loading image: UI/button_back.png
+[13:52:57] [INFO] Loading image: UI/button_back_hover.png
+[13:52:57] [INFO] Loading image: placeholder/placeholder.jpg
+[13:52:57] [INFO] Changing scene to 'menu'
+[13:52:57] [INFO] Running the Game Loop ...
+[13:52:57] [INFO] Entering menu scene
+[13:52:57] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:52:58] [INFO] Changing scene to 'game'
+[13:52:58] [INFO] Entering game scene
+[13:52:58] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:53:24] [INFO] Initializing SceneManager
+[13:53:25] [INFO] Initializing Engine
+[13:53:25] [INFO] Loading image: backgrounds/background1.png
+[13:53:25] [INFO] Loading image: UI/button_play.png
+[13:53:25] [INFO] Loading image: UI/button_play_hover.png
+[13:53:25] [INFO] Loading image: UI/button_setting.png
+[13:53:25] [INFO] Loading image: UI/button_setting_hover.png
+[13:53:25] [INFO] Loading maps
+[13:53:25] [INFO] Loading enemy trainers
+[13:53:25] [INFO] Loading image: character/ow1.png
+[13:53:25] [INFO] Loading image: exclamation.png
+[13:53:25] [INFO] Loading Player
+[13:53:25] [INFO] Loading bag
+[13:53:25] [INFO] Loading image: ingame_ui/options1.png
+[13:53:25] [INFO] Loading image: UI/button_backpack.png
+[13:53:25] [INFO] Loading image: UI/button_backpack_hover.png
+[13:53:25] [INFO] Loading image: UI/button_back.png
+[13:53:25] [INFO] Loading image: UI/button_back_hover.png
+[13:53:25] [INFO] Loading image: placeholder/placeholder.jpg
+[13:53:25] [INFO] Changing scene to 'menu'
+[13:53:25] [INFO] Running the Game Loop ...
+[13:53:25] [INFO] Entering menu scene
+[13:53:25] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:53:26] [INFO] Changing scene to 'game'
+[13:53:26] [INFO] Entering game scene
+[13:53:26] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:56:40] [INFO] Initializing SceneManager
+[13:56:40] [INFO] Initializing Engine
+[13:56:41] [INFO] Loading image: backgrounds/background1.png
+[13:56:41] [INFO] Loading image: UI/button_play.png
+[13:56:41] [INFO] Loading image: UI/button_play_hover.png
+[13:56:41] [INFO] Loading image: UI/button_setting.png
+[13:56:41] [INFO] Loading image: UI/button_setting_hover.png
+[13:56:41] [INFO] Loading maps
+[13:56:41] [INFO] Loading enemy trainers
+[13:56:41] [INFO] Loading image: character/ow1.png
+[13:56:41] [INFO] Loading image: exclamation.png
+[13:56:41] [INFO] Loading Player
+[13:56:41] [INFO] Loading bag
+[13:56:41] [INFO] Loading image: ingame_ui/options1.png
+[13:56:41] [INFO] Loading image: UI/button_backpack.png
+[13:56:41] [INFO] Loading image: UI/button_backpack_hover.png
+[13:56:41] [INFO] Loading image: UI/button_back.png
+[13:56:41] [INFO] Loading image: UI/button_back_hover.png
+[13:56:41] [INFO] Loading image: placeholder/placeholder.jpg
+[13:56:41] [INFO] Changing scene to 'menu'
+[13:56:41] [INFO] Running the Game Loop ...
+[13:56:41] [INFO] Entering menu scene
+[13:56:41] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:56:41] [INFO] Changing scene to 'game'
+[13:56:41] [INFO] Entering game scene
+[13:56:41] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[13:56:51] [INFO] Initializing SceneManager
+[13:56:51] [INFO] Initializing Engine
+[13:56:52] [INFO] Loading image: backgrounds/background1.png
+[13:56:52] [INFO] Loading image: UI/button_play.png
+[13:56:52] [INFO] Loading image: UI/button_play_hover.png
+[13:56:52] [INFO] Loading image: UI/button_setting.png
+[13:56:52] [INFO] Loading image: UI/button_setting_hover.png
+[13:56:52] [INFO] Loading maps
+[13:56:52] [INFO] Loading enemy trainers
+[13:56:52] [INFO] Loading image: character/ow1.png
+[13:56:52] [INFO] Loading image: exclamation.png
+[13:56:52] [INFO] Loading Player
+[13:56:52] [INFO] Loading bag
+[13:56:52] [INFO] Loading image: ingame_ui/options1.png
+[13:56:52] [INFO] Loading image: UI/button_backpack.png
+[13:56:52] [INFO] Loading image: UI/button_backpack_hover.png
+[13:56:52] [INFO] Loading image: UI/button_back.png
+[13:56:52] [INFO] Loading image: UI/button_back_hover.png
+[13:56:52] [INFO] Loading image: placeholder/placeholder.jpg
+[13:56:52] [INFO] Changing scene to 'menu'
+[13:56:52] [INFO] Running the Game Loop ...
+[13:56:52] [INFO] Entering menu scene
+[13:56:52] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[13:56:53] [INFO] Changing scene to 'game'
+[13:56:53] [INFO] Entering game scene
+[13:56:53] [INFO] Loading sound: RBY 103 Pallet Town.ogg
+[14:28:50] [INFO] Initializing SceneManager
+[14:28:50] [INFO] Initializing Engine
+[14:28:51] [INFO] Loading image: backgrounds/background1.png
+[14:28:51] [INFO] Loading image: UI/button_play.png
+[14:28:51] [INFO] Loading image: UI/button_play_hover.png
+[14:28:51] [INFO] Loading image: UI/button_setting.png
+[14:28:51] [INFO] Loading image: UI/button_setting_hover.png
+[14:28:51] [INFO] Loading maps
+[14:28:51] [INFO] Loading enemy trainers
+[14:28:51] [INFO] Loading image: character/ow1.png
+[14:28:51] [INFO] Loading image: exclamation.png
+[14:28:51] [INFO] Loading Player
+[14:28:51] [INFO] Loading bag
+[14:28:51] [INFO] Loading image: ingame_ui/options1.png
+[14:28:51] [INFO] Loading image: UI/button_backpack.png
+[14:28:51] [INFO] Loading image: UI/button_backpack_hover.png
+[14:28:51] [INFO] Loading image: UI/button_back.png
+[14:28:51] [INFO] Loading image: UI/button_back_hover.png
+[14:28:51] [INFO] Loading image: placeholder/placeholder.jpg
+[14:28:51] [INFO] Changing scene to 'menu'
+[14:28:51] [INFO] Running the Game Loop ...
+[14:28:51] [INFO] Entering menu scene
+[14:28:51] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:28:52] [INFO] Changing scene to 'setting'
+[14:28:52] [INFO] Entering setting scene
+[14:28:52] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:28:55] [INFO] Changing scene to 'setting'
+[14:28:55] [INFO] Changing scene to 'menu'
+[14:28:55] [INFO] Entering menu scene
+[14:28:55] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:38:22] [INFO] Initializing SceneManager
+[14:38:22] [INFO] Initializing Engine
+[14:38:22] [INFO] Loading image: backgrounds/background1.png
+[14:38:22] [INFO] Loading image: UI/button_play.png
+[14:38:22] [INFO] Loading image: UI/button_play_hover.png
+[14:38:22] [INFO] Loading image: UI/button_setting.png
+[14:38:22] [INFO] Loading image: UI/button_setting_hover.png
+[14:38:22] [INFO] Loading maps
+[14:38:22] [INFO] Loading enemy trainers
+[14:38:22] [INFO] Loading image: character/ow1.png
+[14:38:22] [INFO] Loading image: exclamation.png
+[14:38:22] [INFO] Loading Player
+[14:38:22] [INFO] Loading bag
+[14:38:22] [INFO] Loading image: ingame_ui/options1.png
+[14:38:22] [INFO] Loading image: UI/button_backpack.png
+[14:38:22] [INFO] Loading image: UI/button_backpack_hover.png
+[14:38:22] [INFO] Loading image: UI/button_back.png
+[14:38:22] [INFO] Loading image: UI/button_back_hover.png
+[14:38:22] [INFO] Loading image: placeholder/placeholder.jpg
+[14:39:10] [INFO] Initializing SceneManager
+[14:39:10] [INFO] Initializing Engine
+[14:39:10] [INFO] Loading image: backgrounds/background1.png
+[14:39:10] [INFO] Loading image: UI/button_play.png
+[14:39:10] [INFO] Loading image: UI/button_play_hover.png
+[14:39:10] [INFO] Loading image: UI/button_setting.png
+[14:39:10] [INFO] Loading image: UI/button_setting_hover.png
+[14:39:10] [INFO] Loading maps
+[14:39:10] [INFO] Loading enemy trainers
+[14:39:10] [INFO] Loading image: character/ow1.png
+[14:39:10] [INFO] Loading image: exclamation.png
+[14:39:10] [INFO] Loading Player
+[14:39:10] [INFO] Loading bag
+[14:39:10] [INFO] Loading image: ingame_ui/options1.png
+[14:39:10] [INFO] Loading image: UI/button_backpack.png
+[14:39:10] [INFO] Loading image: UI/button_backpack_hover.png
+[14:39:10] [INFO] Loading image: UI/button_back.png
+[14:39:10] [INFO] Loading image: UI/button_back_hover.png
+[14:39:10] [INFO] Loading image: placeholder/placeholder.jpg
+[14:39:10] [INFO] Loading image: assets/images/UI/raw/UI_Flat_Frame01a.png
+[14:39:48] [INFO] Initializing SceneManager
+[14:39:49] [INFO] Initializing Engine
+[14:39:49] [INFO] Loading image: backgrounds/background1.png
+[14:39:49] [INFO] Loading image: UI/button_play.png
+[14:39:49] [INFO] Loading image: UI/button_play_hover.png
+[14:39:49] [INFO] Loading image: UI/button_setting.png
+[14:39:49] [INFO] Loading image: UI/button_setting_hover.png
+[14:39:49] [INFO] Loading maps
+[14:39:49] [INFO] Loading enemy trainers
+[14:39:49] [INFO] Loading image: character/ow1.png
+[14:39:49] [INFO] Loading image: exclamation.png
+[14:39:49] [INFO] Loading Player
+[14:39:49] [INFO] Loading bag
+[14:39:49] [INFO] Loading image: ingame_ui/options1.png
+[14:39:49] [INFO] Loading image: UI/button_backpack.png
+[14:39:49] [INFO] Loading image: UI/button_backpack_hover.png
+[14:39:49] [INFO] Loading image: UI/button_back.png
+[14:39:49] [INFO] Loading image: UI/button_back_hover.png
+[14:39:49] [INFO] Loading image: placeholder/placeholder.jpg
+[14:39:49] [INFO] Loading image: UI/raw/UI_Flat_Frame01a.png
+[14:40:29] [INFO] Initializing SceneManager
+[14:40:30] [INFO] Initializing Engine
+[14:40:30] [INFO] Loading image: backgrounds/background1.png
+[14:40:30] [INFO] Loading image: UI/button_play.png
+[14:40:30] [INFO] Loading image: UI/button_play_hover.png
+[14:40:30] [INFO] Loading image: UI/button_setting.png
+[14:40:30] [INFO] Loading image: UI/button_setting_hover.png
+[14:40:30] [INFO] Loading maps
+[14:40:30] [INFO] Loading enemy trainers
+[14:40:30] [INFO] Loading image: character/ow1.png
+[14:40:30] [INFO] Loading image: exclamation.png
+[14:40:30] [INFO] Loading Player
+[14:40:30] [INFO] Loading bag
+[14:40:30] [INFO] Loading image: ingame_ui/options1.png
+[14:40:30] [INFO] Loading image: UI/button_backpack.png
+[14:40:30] [INFO] Loading image: UI/button_backpack_hover.png
+[14:40:30] [INFO] Loading image: UI/button_back.png
+[14:40:30] [INFO] Loading image: UI/button_back_hover.png
+[14:40:30] [INFO] Loading image: placeholder/placeholder.jpg
+[14:40:30] [INFO] Loading image: UI/raw/UI_Flat_Frame01a.png
+[14:40:30] [INFO] Changing scene to 'menu'
+[14:40:30] [INFO] Running the Game Loop ...
+[14:40:30] [INFO] Entering menu scene
+[14:40:30] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:40:31] [INFO] Changing scene to 'setting'
+[14:40:31] [INFO] Entering setting scene
+[14:40:31] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:19] [INFO] Initializing SceneManager
+[14:41:20] [INFO] Initializing Engine
+[14:41:20] [INFO] Loading image: backgrounds/background1.png
+[14:41:20] [INFO] Loading image: UI/button_play.png
+[14:41:20] [INFO] Loading image: UI/button_play_hover.png
+[14:41:20] [INFO] Loading image: UI/button_setting.png
+[14:41:20] [INFO] Loading image: UI/button_setting_hover.png
+[14:41:20] [INFO] Loading maps
+[14:41:20] [INFO] Loading enemy trainers
+[14:41:20] [INFO] Loading image: character/ow1.png
+[14:41:20] [INFO] Loading image: exclamation.png
+[14:41:20] [INFO] Loading Player
+[14:41:20] [INFO] Loading bag
+[14:41:20] [INFO] Loading image: ingame_ui/options1.png
+[14:41:20] [INFO] Loading image: UI/button_backpack.png
+[14:41:20] [INFO] Loading image: UI/button_backpack_hover.png
+[14:41:20] [INFO] Loading image: UI/button_back.png
+[14:41:20] [INFO] Loading image: UI/button_back_hover.png
+[14:41:20] [INFO] Loading image: placeholder/placeholder.jpg
+[14:41:20] [INFO] Loading image: UI/raw/UI_Flat_Frame01a.png
+[14:41:20] [INFO] Changing scene to 'menu'
+[14:41:20] [INFO] Running the Game Loop ...
+[14:41:20] [INFO] Entering menu scene
+[14:41:20] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:21] [INFO] Changing scene to 'setting'
+[14:41:21] [INFO] Entering setting scene
+[14:41:21] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:26] [INFO] Changing scene to 'menu'
+[14:41:26] [INFO] Entering menu scene
+[14:41:26] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:27] [INFO] Changing scene to 'setting'
+[14:41:27] [INFO] Entering setting scene
+[14:41:27] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:28] [INFO] Changing scene to 'menu'
+[14:41:28] [INFO] Entering menu scene
+[14:41:28] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:44] [INFO] Initializing SceneManager
+[14:41:44] [INFO] Initializing Engine
+[14:41:45] [INFO] Loading image: backgrounds/background1.png
+[14:41:45] [INFO] Loading image: UI/button_play.png
+[14:41:45] [INFO] Loading image: UI/button_play_hover.png
+[14:41:45] [INFO] Loading image: UI/button_setting.png
+[14:41:45] [INFO] Loading image: UI/button_setting_hover.png
+[14:41:45] [INFO] Loading maps
+[14:41:45] [INFO] Loading enemy trainers
+[14:41:45] [INFO] Loading image: character/ow1.png
+[14:41:45] [INFO] Loading image: exclamation.png
+[14:41:45] [INFO] Loading Player
+[14:41:45] [INFO] Loading bag
+[14:41:45] [INFO] Loading image: ingame_ui/options1.png
+[14:41:45] [INFO] Loading image: UI/button_backpack.png
+[14:41:45] [INFO] Loading image: UI/button_backpack_hover.png
+[14:41:45] [INFO] Loading image: UI/button_back.png
+[14:41:45] [INFO] Loading image: UI/button_back_hover.png
+[14:41:45] [INFO] Loading image: placeholder/placeholder.jpg
+[14:41:45] [INFO] Loading image: UI/raw/UI_Flat_Frame01a.png
+[14:41:45] [INFO] Changing scene to 'menu'
+[14:41:45] [INFO] Running the Game Loop ...
+[14:41:45] [INFO] Entering menu scene
+[14:41:45] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:45] [INFO] Changing scene to 'setting'
+[14:41:45] [INFO] Entering setting scene
+[14:41:45] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:47] [INFO] Changing scene to 'menu'
+[14:41:47] [INFO] Entering menu scene
+[14:41:47] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:54] [INFO] Initializing SceneManager
+[14:41:55] [INFO] Initializing Engine
+[14:41:55] [INFO] Loading image: backgrounds/background1.png
+[14:41:55] [INFO] Loading image: UI/button_play.png
+[14:41:55] [INFO] Loading image: UI/button_play_hover.png
+[14:41:55] [INFO] Loading image: UI/button_setting.png
+[14:41:55] [INFO] Loading image: UI/button_setting_hover.png
+[14:41:55] [INFO] Loading maps
+[14:41:55] [INFO] Loading enemy trainers
+[14:41:55] [INFO] Loading image: character/ow1.png
+[14:41:55] [INFO] Loading image: exclamation.png
+[14:41:55] [INFO] Loading Player
+[14:41:55] [INFO] Loading bag
+[14:41:55] [INFO] Loading image: ingame_ui/options1.png
+[14:41:55] [INFO] Loading image: UI/button_backpack.png
+[14:41:55] [INFO] Loading image: UI/button_backpack_hover.png
+[14:41:55] [INFO] Loading image: UI/button_back.png
+[14:41:55] [INFO] Loading image: UI/button_back_hover.png
+[14:41:55] [INFO] Loading image: placeholder/placeholder.jpg
+[14:41:55] [INFO] Loading image: UI/raw/UI_Flat_Frame01a.png
+[14:41:55] [INFO] Changing scene to 'menu'
+[14:41:55] [INFO] Running the Game Loop ...
+[14:41:55] [INFO] Entering menu scene
+[14:41:55] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:41:55] [INFO] Changing scene to 'setting'
+[14:41:56] [INFO] Entering setting scene
+[14:41:56] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
+[14:42:02] [INFO] Changing scene to 'menu'
+[14:42:02] [INFO] Entering menu scene
+[14:42:02] [INFO] Loading sound: RBY 101 Opening (Part 1).ogg
