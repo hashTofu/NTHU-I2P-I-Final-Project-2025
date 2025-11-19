@@ -40,6 +40,52 @@ class Button(UIComponent):
     def draw(self, screen: pg.Surface) -> None:
         _ = screen.blit(self.img_button.image, self.hitbox)
 
+class ToggleButton(Button):
+    # optional on-hover sprite change is supported
+    def __init__(
+        self,
+        img_off: str, img_on: str,
+        x: int, y: int,
+        width: int, height: int,
+        img_off_hover: str | None = None,
+        img_on_hover: str | None = None,
+        initial: bool = False,
+        on_toggle: Callable[[bool], None] | None = None,
+    ):
+        off_hover = img_off_hover or img_off
+        super().__init__(img_off, off_hover, x, y, width, height, on_click=None)
+
+        self.img_off_default = self.img_button_default
+        self.img_off_hover = self.img_button_hover
+
+        on_hover = img_on_hover or img_on
+        self.img_on_default = Sprite(img_on, (width, height))
+        self.img_on_hover = Sprite(on_hover, (width, height))
+
+        self.is_on = initial
+        self.on_toggle = on_toggle
+        self._apply_state()
+        self.img_button = self.img_button_default
+
+    def _apply_state(self) -> None:
+        if self.is_on:
+            self.img_button_default = self.img_on_default
+            self.img_button_hover = self.img_on_hover
+        else:
+            self.img_button_default = self.img_off_default
+            self.img_button_hover = self.img_off_hover
+
+    @override
+    def update(self, dt: float) -> None:
+        hovered = self.hitbox.collidepoint(input_manager.mouse_pos)
+        if hovered and input_manager.mouse_pressed(1):
+            self.is_on = not self.is_on
+            if self.on_toggle is not None:
+                self.on_toggle(self.is_on)
+        self._apply_state()
+        super().update(dt)
+
+
 
 def main():
     import sys

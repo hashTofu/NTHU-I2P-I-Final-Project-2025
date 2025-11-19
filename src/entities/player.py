@@ -32,7 +32,9 @@ class Player(Entity):
         if ddis := math.sqrt(dis.x ** 2 + dis.y ** 2):
             dis = Position(dis.x / ddis * self.speed * dt, dis.y / ddis * self.speed * dt)
         
-        hb = pg.Rect(self.position.x + dis.x, self.position.y + dis.y , GameSettings.TILE_SIZE, GameSettings.TILE_SIZE)
+        hitbox_size = 40
+        offset = (GameSettings.TILE_SIZE - hitbox_size) / 2
+        hb = pg.Rect(self.position.x + dis.x + offset, self.position.y + dis.y, hitbox_size, 64)
         if dis.x and self.game_manager.check_collision(hb):
             # self.position.x = self._snap_to_grid(self.position.x)
             pass
