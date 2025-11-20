@@ -30,3 +30,11 @@ class Bag:
         items = data.get("items") or []
         bag = cls(monsters, items)
         return bag
+
+    @property
+    def monsters(self) -> list[Monster]:
+        return self._monsters_data
+
+    @property
+    def items(self) -> list[Item]:
+        return self._items_data

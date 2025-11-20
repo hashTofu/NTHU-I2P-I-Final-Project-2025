@@ -82,6 +82,12 @@ class Player(Entity):
                 
         super().update(dt)
 
+    @property
+    def hitbox(self) -> pg.Rect:
+        hitbox_size = 40
+        offset = (GameSettings.TILE_SIZE - hitbox_size) / 2
+        return pg.Rect(self.position.x + offset, self.position.y, hitbox_size, 64)
+    
     @override
     def draw(self, screen: pg.Surface, camera: PositionCamera) -> None:
         super().draw(screen, camera)

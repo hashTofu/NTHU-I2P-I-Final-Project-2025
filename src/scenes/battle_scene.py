@@ -9,7 +9,7 @@ from src.interface.settings_ui import SettingsUI
 from src.utils import Logger
 from typing import override
 
-class MenuScene(Scene):
+class BattleScene(Scene):
     # Background Image
     background: BackgroundSprite
     # Buttons

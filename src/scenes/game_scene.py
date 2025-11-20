@@ -5,10 +5,12 @@ import time
 from src.scenes.scene import Scene
 from src.core import GameManager, OnlineManager
 from src.utils import Logger, PositionCamera, GameSettings, Position
-from src.core.services import sound_manager
+from src.core.services import sound_manager, scene_manager
 from src.sprites import Sprite
 from typing import override
 from src.interface.components import Button, ToggleButton, Slider
+from src.interface.backpack_ui import BackpackUI
+from src.interface.settings_ui import SettingsUI
 
 
 class GameScene(Scene):
@@ -24,17 +26,8 @@ class GameScene(Scene):
     active_overlay: str | None
     
     # settings overlay
-    volume_toggle: ToggleButton
-    volume_slider: Slider
+    settings_ui: SettingsUI
     bg_frame: Sprite
-    
-    volume_label: pg.Surface
-    mute_label: pg.Surface
-    settings_title: pg.Surface
-    font: pg.font.Font
-
-    save_button: Button
-    load_button: Button
     
     def __init__(self):
         super().__init__()
@@ -82,66 +75,21 @@ class GameScene(Scene):
         
         px, py = GameSettings.SCREEN_WIDTH // 2, GameSettings.SCREEN_HEIGHT // 2
         
+        frame_width, frame_height = 800, 500
+        
         self.bg_frame = Sprite(
             "UI/raw/UI_Flat_Frame01a.png",
-            (600, 400)
+            (frame_width, frame_height)
         )
-        self.bg_frame.update_pos(Position(px - 300, py - 200))
+        self.bg_frame.update_pos(Position(px - frame_width // 2, py - frame_height // 2))
         
-        def _handle_volume_change(value: float) -> None:
-            GameSettings.AUDIO_VOLUME = value
-            if sound_manager.current_bgm:
-                sound_manager.current_bgm.set_volume(value)
-            self._update_volume_label()
-
-        def _handle_mute_toggle(is_on: bool):
-            if is_on:
-                sound_manager.pause_all()
-            else:
-                sound_manager.resume_all()
-            self._update_mute_label()
-
-        element_x = px - 250
-        self.volume_toggle = ToggleButton(
-            "UI/raw/UI_Flat_ToggleOff01a.png", "UI/raw/UI_Flat_ToggleOn01a.png",
-            element_x, py - 100,
-            40, 40,
-            on_toggle=_handle_mute_toggle
-        )
-        slider_width = 320
-        slider_height = 24
-        slider_x = element_x
-        slider_y = py
-
-        self.volume_slider = Slider(
-            "UI/raw/UI_Flat_Bar05a.png",
-            "UI/raw/UI_Flat_Handle01a.png",
-            slider_x,
-            slider_y,
-            slider_width,
-            slider_height,
-            knob_size=(32, 32),
-            initial_value=GameSettings.AUDIO_VOLUME,
-            on_change=_handle_volume_change,
-        )
+        self.backpack_ui = BackpackUI(self.game_manager.bag, int(px - frame_width // 2), int(py - frame_height // 2), frame_width, frame_height)
         
-        self.font = pg.font.Font("assets/fonts/Minecraft.ttf", 24)
-        
-        # Create text surfaces
-        self._update_volume_label()
-        self._update_mute_label()
-        self.settings_title = self.font.render("Settings", True, (255, 255, 255))
-        
-        button_size = 100
-        self.save_button = Button(
-            "UI/button_save.png", "UI/button_save_hover.png",
-            element_x, py + 50, button_size, button_size,
-            lambda: self.game_manager.save("saves/game0.json")
-        )
-        self.load_button = Button(
-            "UI/button_load.png", "UI/button_load_hover.png",
-            element_x + button_size + 25, py + 50, button_size, button_size,
-            self._load_game
+        self.settings_ui = SettingsUI(
+            int(px - frame_width // 2), int(py - frame_height // 2), frame_width, frame_height,
+            on_save=lambda: self.game_manager.save("saves/game0.json"),
+            on_load=self._load_game,
+            on_exit=lambda: scene_manager.change_scene("menu")
         )
 
     def _load_game(self) -> None:
@@ -151,13 +99,6 @@ class GameScene(Scene):
             Logger.info("Game loaded successfully")
         else:
             Logger.warning("Failed to load game")
-    def _update_volume_label(self):
-        volume_text = f"Volume: {int(self.volume_slider.value * 100)}%"
-        self.volume_label = self.font.render(volume_text, True, (255, 255, 255))
-
-    def _update_mute_label(self):
-        mute_text = "Muted" if self.volume_toggle.is_on else "Unmuted"
-        self.mute_label = self.font.render(mute_text, True, (255, 255, 255))
         
     @override
     def enter(self) -> None:
@@ -192,12 +133,10 @@ class GameScene(Scene):
             )
         if self.active_overlay == "settings":
             self.back_button.update(dt)
-            self.volume_toggle.update(dt)
-            self.volume_slider.update(dt)
-            self.save_button.update(dt)
-            self.load_button.update(dt)
+            self.settings_ui.update(dt)
         elif self.active_overlay == "backpack":
             self.back_button.update(dt)
+            self.backpack_ui.update(dt)
         else:
             self.inv_button.update(dt)
             self.settings_button.update(dt)
@@ -232,17 +171,9 @@ class GameScene(Scene):
             self.back_button.draw(screen)
 
             if self.active_overlay == "settings":
-                self.volume_toggle.draw(screen)
-                self.volume_slider.draw(screen)
-                screen.blit(self.volume_label, (self.volume_slider.track_sprite.rect.left, self.volume_slider.track_sprite.rect.top - 30))
-                screen.blit(self.mute_label, (self.volume_toggle.hitbox.left, self.volume_toggle.hitbox.top - 30))
-                self.save_button.draw(screen)
-                self.load_button.draw(screen)
-                # draw title centered at the top of the frame
-                title_rect = self.settings_title.get_rect(center=(GameSettings.SCREEN_WIDTH // 2, self.bg_frame.rect.top + 40))
-                screen.blit(self.settings_title, title_rect)
+                self.settings_ui.draw(screen)
             elif self.active_overlay == "backpack":
-                pass  # temporary overlay only shows frame
+                self.backpack_ui.draw(screen)
         else:
             self.inv_button.draw(screen)
             self.settings_button.draw(screen)

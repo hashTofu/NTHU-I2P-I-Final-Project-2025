@@ -107,7 +107,7 @@ class Slider(UIComponent):
             pg.draw.rect(screen, (0, 200, 0), fill_rect)
 
         # draw track frame
-        _ = screen.blit(self.track_sprite.image, self.track_sprite.rect)
+        screen.blit(self.track_sprite.image, self.track_sprite.rect)
         
         # draw knob
-        _ = screen.blit(self.knob_sprite.image, self.knob_sprite.rect)
+        screen.blit(self.knob_sprite.image, self.knob_sprite.rect)
