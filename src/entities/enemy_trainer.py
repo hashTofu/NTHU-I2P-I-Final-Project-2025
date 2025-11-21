@@ -9,7 +9,7 @@ from src.sprites import Sprite
 from src.core import GameManager
 from src.core.services import input_manager, scene_manager
 from src.utils import GameSettings, Direction, Position, PositionCamera
-
+from src.data.monster_factory import MonsterFactory
 
 class EnemyTrainerClassification(Enum):
     STATIONARY = "stationary"
@@ -56,7 +56,14 @@ class EnemyTrainer(Entity):
         self._movement.update(self, dt)
         self._has_los_to_player()
         if self.detected and input_manager.key_pressed(pygame.K_SPACE):
-            scene_manager.change_scene("BattleScene")
+            battle_scene = scene_manager.get_scene("battle")
+            # Generate a random monster for the trainer
+            monster = MonsterFactory.create_random_monster()
+            
+            # We know it's a BattleScene, so we can call setup_battle
+            if hasattr(battle_scene, "setup_battle"):
+                battle_scene.setup_battle("trainer", monster)
+            scene_manager.change_scene("battle")
         self.animation.update_pos(self.position)
 
     @override

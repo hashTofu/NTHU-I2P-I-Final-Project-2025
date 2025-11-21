@@ -15,6 +15,11 @@ class SceneManager:
         
     def register_scene(self, name: str, scene: Scene) -> None:
         self._scenes[name] = scene
+
+    def get_scene(self, name: str) -> Scene:
+        if name in self._scenes:
+            return self._scenes[name]
+        raise ValueError(f"Scene '{name}' not found")
         
     def change_scene(self, scene_name: str) -> None:
         if scene_name in self._scenes:
@@ -53,4 +58,3 @@ class SceneManager:
             
         # Clear the transition request
         self._next_scene = None
-        

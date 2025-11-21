@@ -35,7 +35,7 @@ class Animation(Sprite):
                     c * frame_w, r * frame_h,
                     frame_w, frame_h
                 ))
-                anim.append(pg.transform.smoothscale(frame, size))
+                anim.append(pg.transform.scale(frame, size))
             self.animations[name] = anim
             
         self.accumulator = 0
