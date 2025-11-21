@@ -38,3 +38,6 @@ class Bag:
     @property
     def items(self) -> list[Item]:
         return self._items_data
+
+    def add_monster(self, monster: Monster):
+        self._monsters_data.append(monster)

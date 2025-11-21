@@ -13,6 +13,7 @@ class Map:
     # Rendering Properties
     _surface: pg.Surface
     _collision_map: list[pg.Rect]
+    _trigger_map: list[pg.Rect]
 
     def __init__(self, path: str, tp: list[Teleport], spawn: Position):
         self.path_name = path
@@ -26,8 +27,10 @@ class Map:
         # Prebake the map
         self._surface = pg.Surface((pixel_w, pixel_h), pg.SRCALPHA)
         self._render_all_layers(self._surface)
+        
         # Prebake the collision map
         self._collision_map = self._create_collision_map()
+        self._trigger_map = self._create_trigger_map()
 
     def update(self, dt: float):
         return
@@ -39,6 +42,8 @@ class Map:
         if GameSettings.DRAW_HITBOXES:
             for rect in self._collision_map:
                 pg.draw.rect(screen, (255, 0, 0), camera.transform_rect(rect), 1)
+            for rect in self._trigger_map:
+                pg.draw.rect(screen, (0, 255, 255), camera.transform_rect(rect), 1)
         
     def check_collision(self, rect: pg.Rect) -> bool:
         '''
@@ -61,6 +66,16 @@ class Map:
         for tp in self.teleporters:
             if abs(pos.x - tp.pos.x) <= GameSettings.TILE_SIZE and abs(pos.y - tp.pos.y) <= GameSettings.TILE_SIZE:
                 return tp
+
+    def check_trigger(self, rect: pg.Rect) -> bool:
+        '''
+        Check if the player triggers a special scene
+        '''
+        for mp in self._trigger_map:
+            if mp.colliderect(rect):
+                # Placeholder for triggering special scene
+                return True
+        return False
 
     def _render_all_layers(self, target: pg.Surface) -> None:
         for layer in self.tmxdata.visible_layers:
@@ -85,14 +100,26 @@ class Map:
         for layer in self.tmxdata.visible_layers:
             if isinstance(layer, pytmx.TiledTileLayer) and ("collision" in layer.name.lower() or "house" in layer.name.lower()):
                 for x, y, gid in layer:
-                    if gid != 0:
+                    if gid != 0 and gid != 81:
                         '''
                         [TODO HACKATHON 4]
                         rects.append(pg.Rect(...))
                         Append the collision rectangle to the rects[] array
                         Remember scale the rectangle with the TILE_SIZE from settings
                         '''
-                        rects.append(pg.Rect(x*GameSettings.TILE_SIZE, y*GameSettings.TILE_SIZE, GameSettings.TILE_SIZE, GameSettings.TILE_SIZE))
+                        rect = pg.Rect(x*GameSettings.TILE_SIZE, y*GameSettings.TILE_SIZE, GameSettings.TILE_SIZE, GameSettings.TILE_SIZE)
+                        rects.append(rect)
+        return rects
+
+    def _create_trigger_map(self) -> list[pg.Rect]:
+        rects = []
+        for layer in self.tmxdata.visible_layers:
+            if isinstance(layer, pytmx.TiledTileLayer):
+                if "pokemonbush" in layer.name.lower():
+                    for x, y, gid in layer:
+                        if gid != 0 and gid == 81:
+                            rect = pg.Rect(x*GameSettings.TILE_SIZE, y*GameSettings.TILE_SIZE, GameSettings.TILE_SIZE, GameSettings.TILE_SIZE)
+                            rects.append(rect)
         return rects
 
     @classmethod

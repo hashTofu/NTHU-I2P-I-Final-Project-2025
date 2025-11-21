@@ -65,8 +65,8 @@
   ],
   "current_map": "map.tmx",
   "player": {
-    "x": 23.83695036021292,
-    "y": 30.606097249117127
+    "x": 26.994635785162195,
+    "y": 28.73618816052701
   },
   "bag": {
     "monsters": [
@@ -111,6 +111,14 @@
         "max_hp": 220,
         "level": 40,
         "id": 6
+      },
+      {
+        "name": "Seel",
+        "hp": 80,
+        "max_hp": 80,
+        "level": 10,
+        "sprite_path": "sprites/sprite10_idle.png",
+        "id": 10
       }
     ],
     "items": [

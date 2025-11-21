@@ -5,12 +5,13 @@ import time
 from src.scenes.scene import Scene
 from src.core import GameManager, OnlineManager
 from src.utils import Logger, PositionCamera, GameSettings, Position
-from src.core.services import sound_manager, scene_manager
+from src.core.services import sound_manager, scene_manager, input_manager
 from src.sprites import Sprite
 from typing import override
 from src.interface.components import Button, ToggleButton, Slider
 from src.interface.backpack_ui import BackpackUI
 from src.interface.settings_ui import SettingsUI
+from src.data.monster_factory import MonsterFactory
 
 
 class GameScene(Scene):
@@ -119,6 +120,17 @@ class GameScene(Scene):
         # Update player and other data
         if self.game_manager.player:
             self.game_manager.player.update(dt)
+            
+            # Check for special trigger
+            if self.game_manager.current_map.check_trigger(self.game_manager.player.hitbox):
+                 if input_manager.key_pressed(pg.K_SPACE):
+                     # Trigger wild battle
+                     monster = MonsterFactory.create_random_monster()
+                     battle_scene = scene_manager.get_scene("battle")
+                     if hasattr(battle_scene, "setup_battle"):
+                         battle_scene.setup_battle("wild", monster)
+                     scene_manager.change_scene("battle")
+
         for enemy in self.game_manager.current_enemy_trainers:
             enemy.update(dt)
             
